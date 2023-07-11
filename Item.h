@@ -1,5 +1,6 @@
 #ifndef Item_h
 #define Item_h
+#include <stdio.h>
 #define MEMORIAMAX 2
 
 typedef struct{
@@ -13,3 +14,5 @@ typedef struct{
 typedef struct{
     FILE* fita[MEMORIAMAX];
 }Fitas;
+
+#endif

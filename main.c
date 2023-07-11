@@ -1,14 +1,19 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include <stdlib.h>
+#include <string.h>
+#include "quicksortExt.h"
 
     
 int main(int argc, char **argv){
-    if (argc!=4 && argc!=5){
+    if (argc!=3 && argc!=4){
         printf("Número de argumentos inválido. As entradas são: <método> <quantidade> <situação> [-P](opcional)\n");
         return 0;
     }
     bool ArgOpcional = false;
     int opcode = atoi(argv[1]);
+    int quantidade = atoi(argv[2]);
+    int situacao = atoi(argv[3]);
     if(argc == 6 && strcmp(argv[5], "-p") == 0)
         ArgOpcional = true;
 
@@ -28,9 +33,9 @@ int main(int argc, char **argv){
     else if(opcode == 2){
     }
     //***********************************************************  QuickSort Externo *********************************************************** 
-    else if (opcode == 3)  {
+    else if (opcode == 3){
+        quickSortInicia(quantidade);
     }
-    
     fclose(arq);
     return 0;
 }
