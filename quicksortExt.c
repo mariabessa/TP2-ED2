@@ -2,22 +2,22 @@
 
 void quickSortInicia(int quantidade){
     FILE *ArqLEs, *ArqLi, *ArqEi;
-    ArqLi = fopen("arquivo.txt", "r+");
+    ArqLi = fopen("PROVAO.bin", "r+");
     if(ArqLi == NULL){
         printf("Arquivo não pode ser aberto\n");
         return;
     }
-    ArqEi = fopen("arquivo.txt", "r+");
+    ArqEi = fopen("PROVAO.bin", "r+");
     if(ArqEi == NULL){
         printf("Arquivo não pode ser aberto\n");
         return;
     }
-    ArqLEs = fopen("arquivo.txt", "r+");
+    ArqLEs = fopen("PROVAO.bin", "r+");
     if(ArqLEs == NULL){
         printf("Arquivo não pode ser aberto\n");
         return;
     }
-    QuicksortExterno(&ArqLi, &ArqEi, &ArqLEs, 1, 5);
+    QuicksortExterno(&ArqLi, &ArqEi, &ArqLEs, 1, 20);
     fclose(ArqLi);
     fclose(ArqEi);
     fclose(ArqLEs);
@@ -91,12 +91,14 @@ void inicializaPivo(Pivo *pivo){
 void leSup(FILE **ArqLEs, Aluno *UltLido, int *Ls, short *OndeLer){
     fseek(*ArqLEs, (*Ls - 1) * sizeof(Aluno), SEEK_SET);
     fread(UltLido, sizeof(Aluno), 1, *ArqLEs);
+    printf("leu-se sup: %ld %lf\n", UltLido->inscricao, UltLido->nota);
     (*Ls)--;
     *OndeLer = 0;
 }
 
 void leInf(FILE **ArqLi, Aluno *UltLido, int *Li, short *OndeLer){
     fread(UltLido, sizeof(Aluno), 1, *ArqLi);
+    printf("leu-se inf: %ld %lf\n", UltLido->inscricao, UltLido->nota);
     (*Li)++;
     *OndeLer = 1;
 }

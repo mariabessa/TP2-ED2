@@ -23,7 +23,7 @@ int main(int argc, char **argv){
         argv[4](opcional) = [-P] colocado caso deseja que as chaves de pesquisa dos registros do arquivo considerado sejam apresentadas na tela
     */
     FILE *arq;
-    if((arq = fopen("PROVAO.txt", "r")) == NULL){
+    if((arq = fopen("arquivo.txt", "r")) == NULL){
         printf("Erro ao abrir o arquivo\n");
     }
     //******************************  Intercalação balanceada de vários caminhos (2f fitas) com QuickSort interno ****************************** 

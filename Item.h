@@ -1,7 +1,7 @@
 #ifndef Item_h
 #define Item_h
 #include <stdio.h>
-#define MEMORIAMAX 2
+#define MEMORIAMAX 5
 
 typedef struct{
     long int inscricao;

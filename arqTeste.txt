@@ -1,0 +1,300 @@
+Inscrição: 412790
+Nota: 0.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 37379
+Nota: 17.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 456679
+Nota: 22.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 306088
+Nota: 24.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 111954
+Nota: 27.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 23133
+Nota: 28.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 85344
+Nota: 31.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 412790
+Nota: 0.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 373477
+Nota: 44.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 101991
+Nota: 33.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 170838
+Nota: 34.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 340424
+Nota: 41.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 61117
+Nota: 43.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 61117
+Nota: 43.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 373477
+Nota: 44.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 412715
+Nota: 44.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 34535
+Nota: 46.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 295222
+Nota: 49.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 456679
+Nota: 22.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 382513
+Nota: 55.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 313201
+Nota: 48.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 300056
+Nota: 22.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 319299
+Nota: 60.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 220132
+Nota: 43.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 170558
+Nota: 35.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 238292
+Nota: 38.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 216194
+Nota: 44.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 301105
+Nota: 53.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 269932
+Nota: 17.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 364281
+Nota: 42.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 331437
+Nota: 49.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 346592
+Nota: 14.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 162633
+Nota: 36.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 5317
+Nota: 25.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 59573
+Nota: 0.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 163079
+Nota: 23.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 9997
+Nota: 43.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 151750
+Nota: 0.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 370724
+Nota: 0.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 409928
+Nota: 37.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 65996
+Nota: 16.30
+Estado: MT
+Cidade: AGUA BOA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 362081
+Nota: 27.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 423855
+Nota: 0.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 66198
+Nota: 56.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 35798
+Nota: 45.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 121505
+Nota: 18.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 224450
+Nota: 40.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 21887
+Nota: 51.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 58175
+Nota: 61.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 3393
+Nota: 37.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
