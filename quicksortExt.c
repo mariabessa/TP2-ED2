@@ -17,7 +17,7 @@ void quickSortInicia(int quantidade){
         printf("Arquivo não pode ser aberto\n");
         return;
     }
-    QuicksortExterno(&ArqLi, &ArqEi, &ArqLEs, 1, 20);
+    QuicksortExterno(&ArqLi, &ArqEi, &ArqLEs, 1, 10);
     fclose(ArqLi);
     fclose(ArqEi);
     fclose(ArqLEs);
@@ -76,7 +76,12 @@ void particao(FILE **ArqLi, FILE **ArqEi, FILE **ArqLEs, Pivo pivo, int Esq, int
             escreveMax(ArqLEs, escrita, &Es);
             Lsup = escrita.nota;
         }
-    }while(Ei <= Es){
+    }
+
+
+
+    while(Ei <= Es){
+        printf("analise: %d", Li);
         retiraMin(&pivo, &escrita);
         escreveMin(ArqEi, escrita, &Ei);
     }
@@ -92,6 +97,7 @@ void leSup(FILE **ArqLEs, Aluno *UltLido, int *Ls, short *OndeLer){
     fseek(*ArqLEs, (*Ls - 1) * sizeof(Aluno), SEEK_SET);
     fread(UltLido, sizeof(Aluno), 1, *ArqLEs);
     printf("leu-se sup: %ld %lf\n", UltLido->inscricao, UltLido->nota);
+    printf("%d", *Ls);
     (*Ls)--;
     *OndeLer = 0;
 }
@@ -99,6 +105,7 @@ void leSup(FILE **ArqLEs, Aluno *UltLido, int *Ls, short *OndeLer){
 void leInf(FILE **ArqLi, Aluno *UltLido, int *Li, short *OndeLer){
     fread(UltLido, sizeof(Aluno), 1, *ArqLi);
     printf("leu-se inf: %ld %lf\n", UltLido->inscricao, UltLido->nota);
+    printf("%d", *Li);
     (*Li)++;
     *OndeLer = 1;
 }
@@ -128,15 +135,11 @@ void escreveMin(FILE **ArqEi, Aluno aluno, int *Ei){
 }
 
 void inserirPivo(Pivo *pivo, Aluno UltLido){
-    int i = pivo->n;
-    // arrasta todos os alunos com nota maior do que o UltLido para frente
-    while(i > 0){
-        if(UltLido.nota >= pivo->vetor[i-1].nota)
-            break;
-        pivo->vetor[i] = pivo->vetor[i-1];
+    int i = pivo->n - 1;
+    while (i >= 0 && UltLido.nota < pivo->vetor[i].nota) {
+        pivo->vetor[i + 1] = pivo->vetor[i];
         i--;
-    }  
-    // insere o Aluno de forma que o vetor continue ordenado
-    pivo->vetor[i] = UltLido;
+    }
+    pivo->vetor[i + 1] = UltLido;
     pivo->n++;
 }
