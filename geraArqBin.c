@@ -10,7 +10,7 @@ int main(){
     Aluno aluno;
     char lixo[20];
     int i = 0;
-    while(i < 50){
+    while(i < 471706){
         fscanf(arquivoTxt, "%ld %lf", &aluno.inscricao, &aluno.nota);
         fgets(lixo, 2, arquivoTxt);
         fgets(aluno.estado, 3, arquivoTxt);

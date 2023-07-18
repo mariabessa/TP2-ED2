@@ -34,7 +34,7 @@ int main(int argc, char **argv){
     }
     //***********************************************************  QuickSort Externo *********************************************************** 
     else if (opcode == 3){
-        quickSortInicia(quantidade);
+        quickSortInicia(quantidade, situacao);
     }
     fclose(arq);
     return 0;

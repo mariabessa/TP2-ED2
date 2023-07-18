@@ -8,7 +8,7 @@ typedef struct{
     int n;
 }Pivo;
 
-void quickSortInicia(int);
+void quickSortInicia(int, int);
 void QuicksortExterno(FILE **, FILE **, FILE **, int, int);
 void particao(FILE **, FILE **, FILE **, Pivo, int, int, int *, int *);
 void inicializaPivo(Pivo *);
@@ -19,5 +19,6 @@ void retiraMin(Pivo *, Aluno *);
 void escreveMax(FILE **, Aluno, int *);
 void escreveMin(FILE **, Aluno, int *);
 void inserirPivo(Pivo *, Aluno);
+void printa();
 
 #endif
