@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "Item.h"
+#include "intercalacao.h"
 
 int main() {
     FILE *arquivo;
