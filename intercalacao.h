@@ -3,7 +3,8 @@
 #include "Item.h"
 
 
-void iniciaItercalacao(FILE *, int, int, bool);
+void iniciaItercalacao(FILE *, int, bool);
 void intercala(Fitas, int);
+void ordenaAlunos(Aluno *, int);
 
 #endif

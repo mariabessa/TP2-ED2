@@ -38,7 +38,7 @@ int main(int argc, char **argv){
 
     //******************************  Intercalação balanceada de vários caminhos (2f fitas) com QuickSort interno ****************************** 
     else if (opcode == 1){ 
-        iniciaItercalacao(arquivo, quantidade, situacao, ArgOpcional);
+        iniciaItercalacao(arquivo, quantidade, ArgOpcional);
     }
     //******************************  Intercalação balanceada de vários caminhos (2f fitas) com Seleção por Substituição ****************************** 
     else if(opcode == 2){
