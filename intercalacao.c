@@ -54,7 +54,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                 for(int y = 0; y <= j; y++)
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[indiceFita % 20]);
 
-                fseek(fitas.fita[indiceFita % 20], 0, SEEK_SET);
+                //fseek(fitas.fita[indiceFita % 20], 0, SEEK_SET);
 
                 numReg -= 20;
                 indiceFita++;
@@ -79,7 +79,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                 for(int y = 0; y <= j; y++)
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[indiceFita % 20]);
                 
-                fseek(fitas.fita[indiceFita % 20], 0, SEEK_SET);
+                //fseek(fitas.fita[indiceFita % 20], 0, SEEK_SET);
 
                 numReg -= 20;
                 indiceFita++;
@@ -107,7 +107,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                 for(int y = 0; y <= j; y++)
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[i % 20]);
 
-                fseek(fitas.fita[i % 20], 0, SEEK_SET);
+                //fseek(fitas.fita[i % 20], 0, SEEK_SET);
             }
         }
         else {
@@ -124,7 +124,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                 for(int y = 0; y <= j; y++)
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[i % 20]);
                 
-                fseek(fitas.fita[i % 20], 0, SEEK_SET);
+                //fseek(fitas.fita[i % 20], 0, SEEK_SET);
             }
         }
     }
