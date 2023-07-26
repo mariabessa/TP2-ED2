@@ -5,6 +5,5 @@
 
 void iniciaItercalacao(FILE *, int, bool);
 void intercala(Fitas, int);
-void ordenaAlunos(Aluno *, int);
 
 #endif
