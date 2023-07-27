@@ -13,6 +13,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
 
     //iniciando as fitas de entrada, lendo os dados e salvando nas respectivas fitas de destino.
 
+    int numRegistros = numReg;
     Fitas fitas;
     Aluno alunos[20]; 
     char nomeArquivo[10];
@@ -191,7 +192,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
     for (int i = 0; i < 20; i++)
         fseek(fitas.fita[i], 0, SEEK_SET); //voltando pro início do arquivo de todas as fitas.
       
-    intercala(fitas, numeroFitas, arqFinal);
+    intercala(fitas, numeroFitas, numRegistros, arqFinal);
     //funçãoparapassarbinparatxt
     fclose(arqFinal);
     
@@ -201,30 +202,31 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
         fclose(fitas.fita[i]);
 }
 
-void intercala(Fitas fitasEntrada, int numeroFitas, FILE *arqFinal){
+void intercala(Fitas fitasEntrada, int numeroFitas, int numRegistros, FILE *arqFinal){
 
-    EstruturaIntercalacao *vetor = (EstruturaIntercalacao*) malloc(sizeof(EstruturaIntercalacao) * numeroFitas); //vetor usado para intercalar os blocos das fitas, por isso é feita a alocação de memória com relação a quantidade de fitas contendo conteúdo. 
+    int numRepeticoes = 0;
+    EstruturaIntercalacao *vetorEstrutura = (EstruturaIntercalacao*) malloc(sizeof(EstruturaIntercalacao) * numeroFitas); //vetor usado para intercalar os blocos das fitas, por isso é feita a alocação de memória com relação a quantidade de fitas contendo conteúdo. 
     Fitas fitasSaida; 
     char nomeArquivo[10];
+    int final;
 
-    for(int i = 0; i < 20; i++){ //iniciando as fitas de saída. variando de 21 até 40.
+    if(numRegistros > 400)
+        for(int i = numRegistros; i > 0; i -= 400)
+            numRepeticoes++;
+    else
+        numRepeticoes = 1;
+
+
+    for(int i = 0; i < numRepeticoes; i++){ //iniciando as fitas de saída. variando de 21 até 40.
         sprintf(nomeArquivo, "fita%d.bin", i + 21);
         fitasSaida.fita[i] = fopen(nomeArquivo, "wb+");
     }
 
-    // for(;;){
-    //     for(int i = 0; i < numeroFitas; i++){
-    //         if(fread(&alunos[j], sizeof(Aluno), 1, arq) != 1)
-    //             break;
-    //     }
-    // }
-
-    printf("saiu\n");
 
     for(int i = 0; i < 20; i++)
         fclose(fitasSaida.fita[i]);
 
-    free(vetor);
+    free(vetorEstrutura);
 }
 
 void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
@@ -240,3 +242,5 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
 //acho que vou ter que fazer uma função para reiniciar os dados da EstruturaIntercalção. Explicação: Caso sejam lidos 20 blocos e hajam mais de 20 blocos, o processo vai ter que recomeçar para os blocos excedentes das fitas.
 
 //as fitas vão para o final caso o índice da estrutura chegue a 20 ou caso o arquivo da fita chegue ao final.
+
+//preciso intercalar todos os blocos das primeiras fitas(de entrada), logo após, depois preciso fazer a intercalação contrária

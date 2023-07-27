@@ -8,7 +8,7 @@ typedef struct{
 }EstruturaIntercalacao;
 
 void iniciaItercalacao(FILE *, int, bool);
-void intercala(Fitas, int, FILE*);
-void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas);
+void intercala(Fitas, int, int,FILE*);
+void iniciaDadosEstrutura(EstruturaIntercalacao *, int);
 
 #endif
