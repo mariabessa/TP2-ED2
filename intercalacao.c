@@ -182,6 +182,32 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
     for (int i = 0; i < 20; i++)
         fseek(fitas.fita[i], 0, SEEK_SET); //voltando pro início do arquivo de todas as fitas.
 
+    //A seguir temos o print de todos os registros de todos os blocos de todas as fitas (caso a quantidade de registros seja divisivel por 20).
+
+    // Aluno aluno; 
+    // fseek(fitas.fita[0], 0, SEEK_SET);
+    // for(int j = 0; j < 20; j++){ //for de fitas
+    //     printf("Fita: %d\n\n", j+1);
+    //     int count = 0;
+    //     for(int i = 0; i < 20; i ++){ //for de blocos
+    //         count++;
+    //         for(int y = 0; y < 20; y++){ //for de registros
+    //             if(fread(&aluno, sizeof(Aluno), 1, fitas.fita[j])!= 1) 
+    //                 break;
+
+    //             printf("Bloco: %d\n", count);
+    //             printf("%s\n", aluno.cidade);
+    //             printf("%s\n", aluno.curso);
+    //             printf("%s\n", aluno.estado);
+    //             printf("%ld\n", aluno.inscricao);
+    //             printf("%lf\n\n", aluno.nota);
+    //         }
+    //     }
+    //     printf("\n\n");
+    // }
+    // for (int i = 0; i < 20; i++)
+    //     fseek(fitas.fita[i], 0, SEEK_SET); //voltando pro início do arquivo de todas as fitas.
+
           
     intercala(fitas, numRegistros, arqFinal);
     //funçãoparapassarbinparatxt
@@ -199,7 +225,7 @@ void intercala(Fitas fitasEntrada, int numRegistros, FILE *arqFinal){
     Fitas fitasSaida; 
     char nomeArquivo[10];
 
-    if(numRegistros > 400){
+    if(numRegistros > 400){ //contabiliza quantas transições de fitas de entrada vão ocorrer.
         for(int i = 400; i < numRegistros; i *= 20)
             numRepeticoesGerais++;
     }
@@ -248,7 +274,11 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
 }
 
 void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int qualRepeticao){
+
+    
     if(numRegistros % 20 == 0){
+
+
         int itensPorBloco = pow(20, qualRepeticao);
         int numBlocos = numRegistros / itensPorBloco;
         int numFitas = 0;
@@ -265,6 +295,8 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
             int indiceMenor = numFitas;
             int limiteFitasDisponiveis = numFitas;
 
+            printf("Número de blocos: %d\nItens/bloco: %d\n", numBlocos, itensPorBloco);
+
             iniciaDadosEstrutura(vetorEstrutura, numFitas);
 
             for(int j = 0; j < numFitas; j++){
@@ -274,7 +306,7 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
 
             for(int j = 0; j < (numFitas*itensPorBloco); j++){
                 //vou lendo e aumentando o indice de cada casa, quando um indice chegar ao máximo (itensPorBloco) eu passo essa fita para o final.
-                indiceMenor = retornaMenor(vetorEstrutura, numFitas);
+                indiceMenor = retornaMenor(vetorEstrutura, limiteFitasDisponiveis);
                 fwrite(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasSaida.fita[fitaASerEscrita]);
                 vetorEstrutura[indiceMenor].indice += 1;
                 if(fread(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasEntrada.fita[indiceMenor])!=1 || vetorEstrutura[indiceMenor].indice == itensPorBloco){
