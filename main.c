@@ -15,6 +15,7 @@ int main(int argc, char **argv){
     int opcode = atoi(argv[1]);
     int quantidade = atoi(argv[2]);
     int situacao = atoi(argv[3]);
+    
     if(argc == 6 && strcmp(argv[5], "-p") == 0)
         ArgOpcional = true;
 

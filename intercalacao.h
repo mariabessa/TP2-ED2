@@ -10,5 +10,6 @@ typedef struct{
 void iniciaItercalacao(FILE *, int, bool);
 void intercala(Fitas, int, int,FILE*);
 void iniciaDadosEstrutura(EstruturaIntercalacao *, int);
-
+void intercalaEntrada(Fitas, Fitas, int , int);
+void intercalaSaida();
 #endif

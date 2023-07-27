@@ -141,6 +141,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
         if(ArgOpcional){ //if usado para verficar se o usuário quer que os dados sejam printados ou não ([-P]).
             for(int i = 0; i < numBlocos; i++){
                 //leitura dos vinte registros a serem organizados.
+                printf("entrou\n");
                 for(j = 0; j < 20; j++){
                     if(fread(&alunos[j], sizeof(Aluno), 1, arq)!= 1) 
                         break;
@@ -171,7 +172,6 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
         }
         else {
             for(int i = 0; i < numBlocos; i++){
-
                 //leitura dos vinte registros a serem organizados.
                 for(j = 0; j < 20; j++)
                     if(fread(&alunos[j], sizeof(Aluno), 1, arq) != 1)
@@ -205,10 +205,9 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
 void intercala(Fitas fitasEntrada, int numeroFitas, int numRegistros, FILE *arqFinal){
 
     int numRepeticoesGerais = 1;
-    EstruturaIntercalacao *vetorEstrutura = (EstruturaIntercalacao*) malloc(sizeof(EstruturaIntercalacao) * numeroFitas); //vetor usado para intercalar os blocos das fitas, por isso é feita a alocação de memória com relação a quantidade de fitas contendo conteúdo. 
+    //EstruturaIntercalacao *vetorEstrutura = (EstruturaIntercalacao*) malloc(sizeof(EstruturaIntercalacao) * numeroFitas); //vetor usado para intercalar os blocos das fitas, por isso é feita a alocação de memória com relação a quantidade de fitas contendo conteúdo. 
     Fitas fitasSaida; 
     char nomeArquivo[10];
-    int final;
 
     if(numRegistros > 400){
         for(int i = 400; i < numRegistros; i *= 20)
@@ -222,7 +221,7 @@ void intercala(Fitas fitasEntrada, int numeroFitas, int numRegistros, FILE *arqF
 
     for(int i = 0; i < numRepeticoesGerais; i++){
         if(i % 2 == 0)
-            intercalaEntrada();
+            intercalaEntrada(fitasEntrada, fitasSaida, numRegistros, i + 1);
         else    
             intercalaSaida();
     }
@@ -230,7 +229,7 @@ void intercala(Fitas fitasEntrada, int numeroFitas, int numRegistros, FILE *arqF
     for(int i = 0; i < 20; i++)
         fclose(fitasSaida.fita[i]);
 
-    free(vetorEstrutura);
+    //free(vetorEstrutura);
 }
 
 void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
@@ -242,4 +241,30 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
         vetor[i].aluno.nota = 0;
         vetor[i].indice = 0;
     }
+}
+
+void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int qualRepeticao){
+    int numRepeticoes = 1; //numRepeticoes é basicamente quantas colunas de blocos tem nas fitas. Ou seja, quantas colunas de blocos diferentes deverão ser intercaladas.
+
+    if(numRegistros % 20 == 0){
+        if(numRegistros > 20 * qualRepeticao)
+            for(int i = numRegistros; i > 0; i -= 20 * qualRepeticao) //calculando quantas colunas de blocos serão intercaladas.
+                numRepeticoes++;
+        int numBlocos = numRegistros / (20 * qualRepeticao);
+        int numFitas = 0;
+        if(numBlocos > 20)
+            numFitas = 20;
+        else
+            numFitas = numBlocos;
+        for(int i = 0; i < numRepeticoes; i++){
+            for(int j = 0; j < numFitas;)
+        }
+    }
+    else {
+        //caso não seja um número inteiro só preciso verificar quantos porcento tem sobrando e ler isso da próxima fita.
+    }
+}
+
+void intercalaSaida(){
+    printf("Saida\n");
 }
