@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <math.h>
 #include "intercalacao.h"
 #include "ordenaInterno.h"
 #include "Item.h"
@@ -18,7 +19,6 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
     Aluno alunos[20]; 
     char nomeArquivo[10];
     int j = 0;
-    int numeroFitas = 0;
     FILE *arqFinal = fopen("resultadoIntercalacao.bin", "wb+");
 
     fseek(arq, 0, SEEK_SET); //voltando pro início do arquivo.
@@ -107,8 +107,6 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[indiceFita % 20]);
                 numReg -= 20;
                 indiceFita++;
-                if(numeroFitas < 20)
-                    numeroFitas++;
             }
         }
         else {
@@ -131,8 +129,6 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[indiceFita % 20]);
                 numReg -= 20;
                 indiceFita++;
-                if(numeroFitas < 20)
-                    numeroFitas++;
             }
         }
     }
@@ -165,9 +161,6 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                 //inserção dos itens ordenados na fita.
                 for(int y = 0; y <= j; y++)
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[i % 20]);
-                
-                if(numeroFitas < 20)
-                    numeroFitas++;
             }
         }
         else {
@@ -182,9 +175,6 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                 //inserção dos itens ordenados na fita.
                 for(int y = 0; y <= j; y++)
                     fwrite(&alunos[y], sizeof(Aluno), 1, fitas.fita[i % 20]);
-                
-                if(numeroFitas < 20)
-                    numeroFitas++;
             }
         }
     }
@@ -192,7 +182,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
     for (int i = 0; i < 20; i++)
         fseek(fitas.fita[i], 0, SEEK_SET); //voltando pro início do arquivo de todas as fitas.
       
-    intercala(fitas, numeroFitas, numRegistros, arqFinal);
+    intercala(fitas, numRegistros, arqFinal);
     //funçãoparapassarbinparatxt
     fclose(arqFinal);
     
@@ -202,10 +192,9 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
         fclose(fitas.fita[i]);
 }
 
-void intercala(Fitas fitasEntrada, int numeroFitas, int numRegistros, FILE *arqFinal){
+void intercala(Fitas fitasEntrada, int numRegistros, FILE *arqFinal){
 
-    int numRepeticoesGerais = 1;
-    //EstruturaIntercalacao *vetorEstrutura = (EstruturaIntercalacao*) malloc(sizeof(EstruturaIntercalacao) * numeroFitas); //vetor usado para intercalar os blocos das fitas, por isso é feita a alocação de memória com relação a quantidade de fitas contendo conteúdo. 
+    int numRepeticoesGerais = 1; 
     Fitas fitasSaida; 
     char nomeArquivo[10];
 
@@ -226,10 +215,24 @@ void intercala(Fitas fitasEntrada, int numeroFitas, int numRegistros, FILE *arqF
             intercalaSaida();
     }
 
+    Aluno aluno;
+    fseek(fitasEntrada.fita[0], 0, SEEK_SET);
+    for(int i = 0; i < 400; i++){
+        if(fread(&aluno, sizeof(Aluno), 1, fitasEntrada.fita[0])!= 1) 
+            break;
+
+        printf("Indice: %d\n", i);
+        printf("%s\n", aluno.cidade);
+        printf("%s\n", aluno.curso);
+        printf("%s\n", aluno.estado);
+        printf("%ld\n", aluno.inscricao);
+        printf("%lf\n\n", aluno.nota);
+    }
+
     for(int i = 0; i < 20; i++)
         fclose(fitasSaida.fita[i]);
 
-    //free(vetorEstrutura);
+    
 }
 
 void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
@@ -244,20 +247,45 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
 }
 
 void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int qualRepeticao){
-    int numRepeticoes = 1; //numRepeticoes é basicamente quantas colunas de blocos tem nas fitas. Ou seja, quantas colunas de blocos diferentes deverão ser intercaladas.
-
     if(numRegistros % 20 == 0){
-        if(numRegistros > 20 * qualRepeticao)
-            for(int i = numRegistros; i > 0; i -= 20 * qualRepeticao) //calculando quantas colunas de blocos serão intercaladas.
-                numRepeticoes++;
-        int numBlocos = numRegistros / (20 * qualRepeticao);
+        int itensPorBloco = pow(20, qualRepeticao);
+        int numBlocos = numRegistros / itensPorBloco;
         int numFitas = 0;
-        if(numBlocos > 20)
-            numFitas = 20;
-        else
-            numFitas = numBlocos;
-        for(int i = 0; i < numRepeticoes; i++){
-            for(int j = 0; j < numFitas;)
+        int fitaASerEscrita = 0;
+        EstruturaIntercalacao vetorEstrutura[20];
+
+        //A seguir ocorrem dois laços de repetição, resposáveis pela intercalação dos blocos das fitas. O for mais externo é responsável fazer a repetição ad intercalação para todas as colunas de blocos das fitas, já o for interno faz a intercalação propriamente dita.
+        for(int i = numBlocos; i >= 20; i -= 20){ //for externo, repete intercalção pra toda coluna de blocos.
+            if(i >= 20)
+                numFitas = 20;
+            else 
+                numFitas = numBlocos;
+
+            int indiceMenor = numFitas;
+            int limiteFitasDisponiveis = numFitas;
+
+            iniciaDadosEstrutura(vetorEstrutura, numFitas);
+
+            for(int j = 0; j < numFitas; j++){
+                fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasEntrada.fita[j]);
+                vetorEstrutura[j].indice += 1;
+            }
+
+            for(int j = 0; j < ((numFitas*itensPorBloco) - 20); j++){
+                //vou lendo e aumentando o indice de cada casa, quando um indice chegar ao máximo (itensPorBloco) eu passo essa fita para o final.
+                indiceMenor = retornaMenor(vetorEstrutura, numFitas);
+                fwrite(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasSaida.fita[fitaASerEscrita]);
+                vetorEstrutura[indiceMenor].indice += 1;
+                if(fread(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasEntrada.fita[indiceMenor])!=1 || vetorEstrutura[indiceMenor].indice == itensPorBloco){
+                    FILE *temp = fitasEntrada.fita[indiceMenor];
+                    fitasEntrada.fita[indiceMenor] = fitasEntrada.fita[limiteFitasDisponiveis - 1];
+                    fitasEntrada.fita[limiteFitasDisponiveis - 1] = temp;
+                    limiteFitasDisponiveis--;
+                }
+                if(limiteFitasDisponiveis == 0)
+                    break;
+            }
+            fitaASerEscrita++;
         }
     }
     else {
@@ -267,4 +295,16 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
 
 void intercalaSaida(){
     printf("Saida\n");
+}
+
+int retornaMenor(EstruturaIntercalacao *vetor, int qtdItens){
+    double menor = vetor[0].aluno.nota;
+    int indiceMenor = 0;
+    for(int i = 1; i < qtdItens; i++){
+        if(vetor[i].aluno.nota < menor){
+            menor = vetor[i].aluno.nota;
+            indiceMenor = i;
+        }
+    }
+    return indiceMenor;
 }
