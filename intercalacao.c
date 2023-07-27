@@ -242,19 +242,22 @@ void intercala(Fitas fitasEntrada, int numRegistros, FILE *arqFinal){
             intercalaSaida();
     }
 
-    // Aluno aluno;
-    // fseek(fitasSaida.fita[0], 0, SEEK_SET);
-    // for(int i = 0; i < 400; i++){
-    //     if(fread(&aluno, sizeof(Aluno), 1, fitasSaida.fita[0])!= 1) 
-    //         break;
-
-    //     printf("Indice: %d\n", i);
-    //     printf("%s\n", aluno.cidade);
-    //     printf("%s\n", aluno.curso);
-    //     printf("%s\n", aluno.estado);
-    //     printf("%ld\n", aluno.inscricao);
-    //     printf("%lf\n\n", aluno.nota);
-    // }
+    Aluno aluno;
+    fseek(fitasSaida.fita[0], 0, SEEK_SET);
+    for(int j = 0; j < 20; j++){
+        for(int i = 0; i < 400; i++){
+            if(fread(&aluno, sizeof(Aluno), 1, fitasSaida.fita[j]) != 1)
+                break;
+            printf("Indice: %d\n", i);
+            printf("%s\n", aluno.cidade);
+            printf("%s\n", aluno.curso);
+            printf("%s\n", aluno.estado);
+            printf("%ld\n", aluno.inscricao);
+            printf("%lf\n\n", aluno.nota);
+        }
+        getchar();
+        getchar();
+    }
 
     for(int i = 0; i < 20; i++)
         fclose(fitasSaida.fita[i]);
@@ -275,7 +278,7 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
 
 void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int qualRepeticao){
 
-    
+
     if(numRegistros % 20 == 0){
 
 
@@ -294,36 +297,38 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
 
             int indiceMenor = numFitas;
             int limiteFitasDisponiveis = numFitas;
-
-            printf("Número de blocos: %d\nItens/bloco: %d\n", numBlocos, itensPorBloco);
+            FILE *vetorAuxFitas[20];
 
             iniciaDadosEstrutura(vetorEstrutura, numFitas);
 
             for(int j = 0; j < numFitas; j++){
                 fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasEntrada.fita[j]);
                 vetorEstrutura[j].indice += 1;
+                vetorAuxFitas[j] = fitasEntrada.fita[j]; 
             }
 
-            for(int j = 0; j < (numFitas*itensPorBloco); j++){
+            for(int j = 0; j < (numFitas*(itensPorBloco - 1)); j++){
                 //vou lendo e aumentando o indice de cada casa, quando um indice chegar ao máximo (itensPorBloco) eu passo essa fita para o final.
                 indiceMenor = retornaMenor(vetorEstrutura, limiteFitasDisponiveis);
                 fwrite(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasSaida.fita[fitaASerEscrita]);
                 vetorEstrutura[indiceMenor].indice += 1;
                 if(fread(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasEntrada.fita[indiceMenor])!=1 || vetorEstrutura[indiceMenor].indice == itensPorBloco){
-                    FILE *temp = fitasEntrada.fita[indiceMenor];
-                    fitasEntrada.fita[indiceMenor] = fitasEntrada.fita[limiteFitasDisponiveis - 1];
-                    fitasEntrada.fita[limiteFitasDisponiveis - 1] = temp;
+                    FILE *temp = vetorAuxFitas[indiceMenor];
+                    vetorAuxFitas[indiceMenor] = vetorAuxFitas[limiteFitasDisponiveis - 1];
+                    vetorAuxFitas[limiteFitasDisponiveis - 1] = temp;
                     limiteFitasDisponiveis--;
                 }
                 if(limiteFitasDisponiveis == 0)
                     break;
             }
             fitaASerEscrita++;
+            //return;
         }
     }
     else {
         //caso não seja um número inteiro só preciso verificar quantos porcento tem sobrando e ler isso da próxima fita.
-    }
+    } 
+        
 }
 
 void intercalaSaida(){
