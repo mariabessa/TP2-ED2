@@ -236,6 +236,7 @@ void intercala(Fitas fitasEntrada, int numRegistros, FILE *arqFinal){
     }
 
     for(int i = 0; i < numRepeticoesGerais; i++){
+        printf("chegou %d\n", numRepeticoesGerais);
         if(i % 2 == 0)
             intercalaEntrada(fitasEntrada, fitasSaida, numRegistros, i + 1);
         else    
@@ -265,7 +266,7 @@ void intercala(Fitas fitasEntrada, int numRegistros, FILE *arqFinal){
     
 }
 
-void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
+void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas, FILE **vetorFile){
     for (int i = 0; i < numeroFitas; i++){
         vetor[i].aluno.cidade[0] = '\0';
         vetor[i].aluno.curso[0] = '\0';
@@ -273,6 +274,7 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *vetor, int numeroFitas){
         vetor[i].aluno.inscricao = 0;
         vetor[i].aluno.nota = 0;
         vetor[i].indice = 0;
+        vetorFile[i] = NULL;
     }
 }
 
@@ -281,7 +283,7 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
 
     if(numRegistros % 20 == 0){
 
-
+        printf("entrou\n");
         int itensPorBloco = pow(20, qualRepeticao);
         int numBlocos = numRegistros / itensPorBloco;
         int numFitas = 0;
@@ -289,8 +291,9 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
         EstruturaIntercalacao vetorEstrutura[20];
 
         //A seguir ocorrem dois laços de repetição, resposáveis pela intercalação dos blocos das fitas. O for mais externo é responsável fazer a repetição ad intercalação para todas as colunas de blocos das fitas, já o for interno faz a intercalação propriamente dita.
-        for(int i = numBlocos; i >= 20; i -= 20){ //for externo, repete intercalção pra toda coluna de blocos.
-            if(i >= 20)
+        for(int i = 0; i < numBlocos; i++){ //for externo, repete intercalção pra toda coluna de blocos.
+            printf("entrou no for\n");
+            if((numBlocos - i) >= 20)
                 numFitas = 20;
             else 
                 numFitas = numBlocos;
@@ -299,7 +302,7 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
             int limiteFitasDisponiveis = numFitas;
             FILE *vetorAuxFitas[20];
 
-            iniciaDadosEstrutura(vetorEstrutura, numFitas);
+            iniciaDadosEstrutura(vetorEstrutura, numFitas, vetorAuxFitas);
 
             for(int j = 0; j < numFitas; j++){
                 fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasEntrada.fita[j]);
@@ -307,22 +310,29 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
                 vetorAuxFitas[j] = fitasEntrada.fita[j]; 
             }
 
-            for(int j = 0; j < (numFitas*(itensPorBloco - 1)); j++){
+            //for(int j = 0; j < (numFitas*(itensPorBloco)); j++){
+            int x = 0;
+            for(;;){
                 //vou lendo e aumentando o indice de cada casa, quando um indice chegar ao máximo (itensPorBloco) eu passo essa fita para o final.
                 indiceMenor = retornaMenor(vetorEstrutura, limiteFitasDisponiveis);
                 fwrite(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasSaida.fita[fitaASerEscrita]);
                 vetorEstrutura[indiceMenor].indice += 1;
-                if(fread(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasEntrada.fita[indiceMenor])!=1 || vetorEstrutura[indiceMenor].indice == itensPorBloco){
+                if(vetorEstrutura[indiceMenor].indice == itensPorBloco || fread(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasEntrada.fita[indiceMenor])!=1){
                     FILE *temp = vetorAuxFitas[indiceMenor];
                     vetorAuxFitas[indiceMenor] = vetorAuxFitas[limiteFitasDisponiveis - 1];
                     vetorAuxFitas[limiteFitasDisponiveis - 1] = temp;
                     limiteFitasDisponiveis--;
+                    printf("%d\n\n", limiteFitasDisponiveis);
                 }
-                if(limiteFitasDisponiveis == 0)
+                if(limiteFitasDisponiveis == 0){
+                    printf("oxe\n");
                     break;
+                }
+                x++;
+                printf("%d\n", x);
             }
             fitaASerEscrita++;
-            //return;
+            return;
         }
     }
     else {
