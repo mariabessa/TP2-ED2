@@ -11,6 +11,6 @@ void iniciaItercalacao(FILE *, int, bool);
 void intercala(Fitas, int,FILE*);
 void iniciaDadosEstrutura(EstruturaIntercalacao *, int);
 void intercalaEntrada(Fitas, Fitas, int , int);
-void intercalaSaida();
-int retornaMenor(EstruturaIntercalacao *, int );
+void intercalaSaida(Fitas, Fitas, int , int);
+int retornaMenor(EstruturaIntercalacao *, int, int);
 #endif
