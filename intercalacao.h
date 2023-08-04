@@ -13,4 +13,5 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *, int);
 void intercalaEntrada(Fitas, Fitas, int , int);
 void intercalaSaida(Fitas, Fitas, int , int);
 int retornaMenor(EstruturaIntercalacao *, int, int);
+void salvaArqFinal(Fitas, FILE *);
 #endif

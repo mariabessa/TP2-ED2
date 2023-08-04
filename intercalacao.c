@@ -57,7 +57,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
             for(int y = 0; y < numReg; y++)
                 fwrite(&alunos[y], sizeof(Aluno), 1, arqFinal);
         }
-        //funçãoparapassarbinparatxt 
+        //função pra passar arquivo .bin para .txt
         fclose(arqFinal);
         return;
     }
@@ -205,7 +205,9 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
     //     fseek(fitas.fita[i], 0, SEEK_SET); //voltando pro início do arquivo de todas as fitas.
 
     intercala(fitas, numRegistros, arqFinal);
-    //funçãoparapassarbinparatxt
+
+    //função pra passar arquivo .bin para .txt
+    
     fclose(arqFinal);
     
     
@@ -244,13 +246,13 @@ void intercala(Fitas fitasEntrada, int numRegistros, FILE *arqFinal){
             intercalaSaida(fitasEntrada, fitasSaida, numRegistros, i + 1);
     }
 
-    // if(i % 2 == 0)
-    //         //salva saída no arquivo final
-    //     else    
-    //         //salva entrada no arquivo final
-
-    for(int i = 0; i < 20; i++)
-        fclose(fitasSaida.fita[i]);
+    if(i - 1 % 2 == 0)
+        salvaArqFinal(fitasSaida, arqFinal);
+    else 
+        salvaArqFinal(fitasEntrada, arqFinal);
+    
+    for(int x = 0; x < 20; x++)
+        fclose(fitasSaida.fita[x]);
 }
 
 void iniciaDadosEstrutura(EstruturaIntercalacao *itemVetor, int numeroFitas){
@@ -301,7 +303,6 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
         }
     }
     else {
-        printf("teste1\n");
         //caso não seja um número inteiro só preciso verificar quantos porcento tem sobrando e ler isso da próxima fita.
         int numBlocos = numRegistros / itensPorBloco;
         numBlocos += 1; //faço isto, pois o número de itens no último bloco será um número quebrado, mas ele deve ser lido\escrito, então adiciono 1 bloco a parte inteira.
@@ -383,7 +384,6 @@ void intercalaSaida(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int q
         }
     }
     else {
-        printf("teste2\n");
         //caso não seja um número inteiro só preciso verificar quantos porcento tem sobrando e ler isso da próxima fita.
         int numBlocos = numRegistros / itensPorBloco;
         numBlocos += 1; //faço isto, pois o número de itens no último bloco será um número quebrado, mas ele deve ser lido\escrito, então adiciono 1 bloco a parte inteira.
@@ -438,4 +438,12 @@ int retornaMenor(EstruturaIntercalacao *vetor, int qtdItens, int itensPorBloco){
     }
 
     return indiceMenor;
+}
+
+void salvaArqFinal(Fitas resultItercalacao, FILE *arqFinal){
+    Aluno aluno;
+    fseek(resultItercalacao.fita[0], 0, SEEK_SET);
+    
+    while(fread(&aluno, sizeof(Aluno), 1, resultItercalacao.fita[0]) == 1)
+        fwrite(&aluno, sizeof(Aluno), 1, arqFinal);
 }
