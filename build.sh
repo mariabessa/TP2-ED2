@@ -4,4 +4,4 @@ gcc -Wall quicksortExt.c -c
 gcc -Wall ordenaInterno.c -c
 gcc main.o intercalacao.o quicksortExt.o ordenaInterno.o -lm -o exe
 rm *.o
-./exe 1 16000 3
+./exe 1 471705 3

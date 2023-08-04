@@ -232,10 +232,12 @@ void intercala(Fitas fitasEntrada, int numRegistros, FILE *arqFinal){
 
     int i = 0;
     for(; i < numRepeticoesGerais; i++){
+
         for (int i = 0; i < 20; i++){
             fseek(fitasEntrada.fita[i], 0, SEEK_SET); //voltando pro início do arquivo de todas as fitas.
             fseek(fitasSaida.fita[i], 0, SEEK_SET);
         }
+
         if(i % 2 == 0)
             intercalaEntrada(fitasEntrada, fitasSaida, numRegistros, i + 1);
         else    
@@ -261,8 +263,8 @@ void iniciaDadosEstrutura(EstruturaIntercalacao *itemVetor, int numeroFitas){
 }
 
 void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int qualRepeticao){
-    if(numRegistros % 20 == 0){
-        int itensPorBloco = pow(20, qualRepeticao);
+    int itensPorBloco = pow(20, qualRepeticao);
+    if(numRegistros % itensPorBloco == 0){
         int numBlocos = numRegistros / itensPorBloco;
         int numFitas = 0;
         EstruturaIntercalacao vetorEstrutura[20];
@@ -299,14 +301,52 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
         }
     }
     else {
+        printf("teste1\n");
         //caso não seja um número inteiro só preciso verificar quantos porcento tem sobrando e ler isso da próxima fita.
+        int numBlocos = numRegistros / itensPorBloco;
+        numBlocos += 1; //faço isto, pois o número de itens no último bloco será um número quebrado, mas ele deve ser lido\escrito, então adiciono 1 bloco a parte inteira.
+        int numFitas = 0;
+        EstruturaIntercalacao vetorEstrutura[20];
+        int fitaASerEscrita = 0;
+        //posso tentar ler o item, caso não tenha mais nada para ler, caso o fread retorne 0, faço o indice daquele item ser 20.
+
+        for(int i = 0; i < numBlocos; i += 20){
+            if((numBlocos - i) >= 20)
+                numFitas = 20;
+            else 
+                numFitas = numBlocos - i;
+
+            bool intercalou = false;
+            int indiceMenor = -1;
+
+            for(int j = 0; j < numFitas; j++){
+                iniciaDadosEstrutura(&vetorEstrutura[j], numFitas);
+                fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasEntrada.fita[j]);
+            }
+            
+            indiceMenor = retornaMenor(vetorEstrutura, numFitas, itensPorBloco);
+
+            while(!intercalou){
+                if(indiceMenor != -1){
+                    fwrite(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasSaida.fita[fitaASerEscrita % 20]);
+                    vetorEstrutura[indiceMenor].indice++;
+                    if(vetorEstrutura[indiceMenor].indice < itensPorBloco)
+                        if(fread(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasEntrada.fita[indiceMenor]) != 1)
+                            vetorEstrutura[indiceMenor].indice = itensPorBloco;
+                    indiceMenor = retornaMenor(vetorEstrutura, numFitas, itensPorBloco);
+                }
+                else 
+                    intercalou = true;
+            }
+            fitaASerEscrita++;
+        }
     } 
         
 }
 
 void intercalaSaida(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int qualRepeticao){
-    if(numRegistros % 20 == 0){
-        int itensPorBloco = pow(20, qualRepeticao);
+    int itensPorBloco = pow(20, qualRepeticao);
+    if(numRegistros % itensPorBloco == 0){
         int numBlocos = numRegistros / itensPorBloco;
         int numFitas = 0;
         EstruturaIntercalacao vetorEstrutura[20];
@@ -323,7 +363,7 @@ void intercalaSaida(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int q
 
             for(int j = 0; j < numFitas; j++){
                 iniciaDadosEstrutura(&vetorEstrutura[j], numFitas);
-                fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasSaida.fita[j]); //ja foi
+                fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasSaida.fita[j]);
             }
             
             indiceMenor = retornaMenor(vetorEstrutura, numFitas, itensPorBloco);
@@ -343,7 +383,45 @@ void intercalaSaida(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int q
         }
     }
     else {
+        printf("teste2\n");
         //caso não seja um número inteiro só preciso verificar quantos porcento tem sobrando e ler isso da próxima fita.
+        int numBlocos = numRegistros / itensPorBloco;
+        numBlocos += 1; //faço isto, pois o número de itens no último bloco será um número quebrado, mas ele deve ser lido\escrito, então adiciono 1 bloco a parte inteira.
+        int numFitas = 0;
+        EstruturaIntercalacao vetorEstrutura[20];
+        int fitaASerEscrita = 0;
+        //posso tentar ler o item, caso não tenha mais nada para ler, caso o fread retorne 0, faço o indice daquele item ser 20.
+
+        for(int i = 0; i < numBlocos; i += 20){
+            if((numBlocos - i) >= 20)
+                numFitas = 20;
+            else 
+                numFitas = numBlocos - i;
+                
+            bool intercalou = false;
+            int indiceMenor = -1;
+
+            for(int j = 0; j < numFitas; j++){
+                iniciaDadosEstrutura(&vetorEstrutura[j], numFitas);
+                fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasSaida.fita[j]);
+            }
+            
+            indiceMenor = retornaMenor(vetorEstrutura, numFitas, itensPorBloco);
+
+            while(!intercalou){
+                if(indiceMenor != -1){
+                    fwrite(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasEntrada.fita[fitaASerEscrita % 20]);
+                    vetorEstrutura[indiceMenor].indice++;
+                    if(vetorEstrutura[indiceMenor].indice < itensPorBloco)
+                        if(fread(&vetorEstrutura[indiceMenor].aluno, sizeof(Aluno), 1, fitasSaida.fita[indiceMenor]) != 1)
+                            vetorEstrutura[indiceMenor].indice = itensPorBloco;
+                    indiceMenor = retornaMenor(vetorEstrutura, numFitas, itensPorBloco);
+                }
+                else 
+                    intercalou = true;
+            }
+            fitaASerEscrita++;
+        }
     } 
 }
 
@@ -352,10 +430,11 @@ int retornaMenor(EstruturaIntercalacao *vetor, int qtdItens, int itensPorBloco){
     int indiceMenor = -1;
 
     for(int i = 0; i < qtdItens; i++){
-        if(vetor[i].aluno.nota < menor && vetor[i].indice < itensPorBloco){
-            menor = vetor[i].aluno.nota;
-            indiceMenor = i;
-        }
+        if(vetor[i].indice < itensPorBloco)
+            if(vetor[i].aluno.nota < menor){
+                menor = vetor[i].aluno.nota;
+                indiceMenor = i;
+            }
     }
 
     return indiceMenor;
