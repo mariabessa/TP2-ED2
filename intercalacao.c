@@ -137,7 +137,6 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
         if(ArgOpcional){ //if usado para verficar se o usuário quer que os dados sejam printados ou não ([-P]).
             for(int i = 0; i < numBlocos; i++){
                 //leitura dos vinte registros a serem organizados.
-                printf("entrou\n");
                 for(j = 0; j < 20; j++){
                     if(fread(&alunos[j], sizeof(Aluno), 1, arq)!= 1) 
                         break;
@@ -169,7 +168,7 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
                 for(j = 0; j < 20; j++)
                     if(fread(&alunos[j], sizeof(Aluno), 1, arq) != 1)
                         break;  
-
+                
                 ordenaAlunos(alunos, j);
                 
                 //inserção dos itens ordenados na fita.
@@ -325,7 +324,7 @@ void intercalaEntrada(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int
                 fread(&vetorEstrutura[j].aluno, sizeof(Aluno), 1, fitasEntrada.fita[j]);
             }
             
-            indiceMenor = retornaMenor(vetorEstrutura, numFitas, itensPorBloco);
+            indiceMenor = retornaMenor(vetorEstrutura, numFitas, itensPorBloco); //itens por bloco ItensBloco.qtd
 
             while(!intercalou){
                 if(indiceMenor != -1){
@@ -424,7 +423,7 @@ void intercalaSaida(Fitas fitasEntrada, Fitas fitasSaida,int numRegistros, int q
         }
     } 
 }
-
+//pro intercalasub vai ter que passar a quantidade de itens por bloco
 int retornaMenor(EstruturaIntercalacao *vetor, int qtdItens, int itensPorBloco){
     double menor = 10001;
     int indiceMenor = -1;
@@ -436,7 +435,7 @@ int retornaMenor(EstruturaIntercalacao *vetor, int qtdItens, int itensPorBloco){
                 indiceMenor = i;
             }
     }
-
+    
     return indiceMenor;
 }
 

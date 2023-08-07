@@ -12,7 +12,7 @@ typedef struct{
 }Aluno;
 
 typedef struct{
-    FILE* fita[MEMORIAMAX];
+    FILE* fita[MEMORIAMAX]; //vetor de ponteiro de arquivos
 }Fitas;
 
 #endif

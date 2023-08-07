@@ -30,7 +30,6 @@ int main(int argc, char **argv){
         printf("Erro ao abrir o arquivo\n");
     }
 
-
     //abertura do arquivo binário
     FILE *arquivo = fopen("PROVAO.bin","r+b");
 
