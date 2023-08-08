@@ -4,10 +4,11 @@
 #include <stdbool.h>
 #include <math.h>
 #include "intercalacao.h"
+#include "intercalaSub.h"
 #include "ordenaInterno.h"
 #include "Item.h"
 
-void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
+void iniciaItercalacaoSub(FILE *arq, int numReg, bool ArgOpcional){
 
     if(arq == NULL)
         return;
@@ -68,10 +69,50 @@ void iniciaItercalacao(FILE *arq, int numReg, bool ArgOpcional){
         fitas.fita[i] = fopen(nomeArquivo, "wb+");
     }
     
-    //mexer daqui pra baixo
-    //acessar fita x= fitas.fita[x]
+    TipoSub pivo[20];
 
-    //gerar blocos pela seleção substituição
-    //intercalação 2f depo
-    //sempre que escrever um novo item, salvar em itemescrito, usar para compara 
+    for(int x = 0; x < 20; x++){
+        fread(&pivo[x].aluno, sizeof(Aluno), 1, arq);
+        pivo[x].marcado = false;
+    }
+
+    int fitaASerEscrita = 0;
+    int casasMarcadas = 0;
+    int blocosCompletos = 0;
+    int indiceMenor = retornaMenorSub(pivo);
+    double notaMenor = pivo[indiceMenor].aluno.nota;
+
+    for(int j = 0; j < numReg - 20; j++){
+        if(casasMarcadas == 20){
+            blocosCompletos++;
+            if (blocosCompletos == 20)
+                intercala();
+            fitaASerEscrita++;
+            for(int y = 0; y < 20; y++)
+                pivo[y].marcado = false;
+        }
+        if(indiceMenor != -1){
+            fwrite(&pivo[indiceMenor].aluno, sizeof(Aluno), 1, fitas.fita[fitaASerEscrita%20]);
+            fread(&pivo[indiceMenor].aluno, sizeof(Aluno), 1, arq);
+        }
+        if(pivo[indiceMenor].aluno.nota < notaMenor){
+            pivo[indiceMenor].marcado = true;
+            casasMarcadas++;
+        }
+        indiceMenor = retornaMenorSub(pivo);
+    }
+}
+
+int retornaMenorSub(TipoSub *vetor){
+    double menor = 10001;
+    int indiceMenor = -1;
+
+    for(int i = 0; i < 20; i++){
+        if(vetor[i].aluno.nota < menor && vetor[i].marcado == false){
+            menor = vetor[i].aluno.nota;
+            indiceMenor = i;
+        }
+    }
+    
+    return indiceMenor;
 }

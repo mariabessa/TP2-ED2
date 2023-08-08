@@ -6,7 +6,7 @@ int main() {
     Aluno aluno;
 
     // Abrir o arquivo binário para leitura
-    arquivoBin = fopen("PROVAO.bin", "rb");
+    arquivoBin = fopen("aleatorioQS.bin", "rb");
     if (arquivoBin == NULL) {
         printf("Erro ao abrir o arquivo binário.\n");
         return 1;

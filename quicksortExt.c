@@ -4,7 +4,7 @@ void quickSortInicia(int quantidade, int situacao){
     FILE *ArqLEs, *ArqLi, *ArqEi, *arquivo, *copia;
     //cria uma copia do arquivo para não perder o arquivo original
     Aluno aluno;
-    printf("%d\n", situacao);
+    // printf("%d\n", situacao);
     if (situacao == 1){
         arquivo = fopen("ascendente.bin", "rb");
         copia = fopen("ascendenteQS.bin", "wb");
@@ -43,7 +43,7 @@ void quickSortInicia(int quantidade, int situacao){
         ArqEi = fopen("aleatorioQS.bin","r+b");
     }
     if(ArqLi == NULL || ArqEi == NULL || ArqLEs == NULL){
-        printf("Arquivo não pode ser aberto\n");
+        // printf("Arquivo não pode ser aberto\n");
         return;
     }
     // ArqLi = fopen("PROVAO.bin", "r+b");
@@ -101,7 +101,7 @@ void particao(FILE **ArqLi, FILE **ArqEi, FILE **ArqLEs, Pivo pivo, int Esq, int
     *j = Dir + 1;
     //o processo se encerra quando Ls e Li se cruzam
     while(Ls >= Li){
-        printf("\npivo:\n");
+        // printf("\npivo:\n");
         for(int k = 0; k < pivo.n; k++){
             printf("pivo[%d] = %lf\n", k, pivo.vetor[k].nota);
         }
@@ -116,25 +116,25 @@ void particao(FILE **ArqLi, FILE **ArqEi, FILE **ArqLEs, Pivo pivo, int Esq, int
         else if (ondeLer) leSup(ArqLEs, &UltLido, &Ls, &ondeLer);
         else leInf(ArqLi, &UltLido, &Li, &ondeLer);
         if(UltLido.nota > Lsup){
-            printf("\nprimeiro if\n");
-            printf("\n o j era = %d e foi para = %d\n", *j, Es);
+            // printf("\nprimeiro if\n");
+            // printf("\n o j era = %d e foi para = %d\n", *j, Es);
             *j = Es;
             escreveMax(ArqLEs, UltLido, &Es);
             continue;
         }
         else if(UltLido.nota < Linf){
-            printf("\nsegundo if\n");
+            // printf("\nsegundo if\n");
             *i = Ei;
             escreveMin(ArqEi, UltLido, &Ei);
             continue;
         }
         else if (Ei - Esq < Dir - Es){
-            printf("retira min\n");
+            // printf("retira min\n");
             retiraMin(&pivo, &escrita);
             escreveMin(ArqEi, escrita, &Ei);
             Linf = escrita.nota;
         }else{
-            printf("retira max %d\n", pivo.n);
+            // printf("retira max %d\n", pivo.n);
             retiraMax(&pivo, &escrita);
             escreveMax(ArqLEs, escrita, &Es);
             Lsup = escrita.nota;
@@ -149,8 +149,8 @@ void particao(FILE **ArqLi, FILE **ArqEi, FILE **ArqLEs, Pivo pivo, int Esq, int
         escreveMin(ArqEi, escrita, &Ei);
     }
     // printa();
-    printf("\n\nvalor de i:%d\n\n", *i);
-    printf("\n\nvalor de j:%d\n\n", *j);
+    // printf("\n\nvalor de i:%d\n\n", *i);
+    // printf("\n\nvalor de j:%d\n\n", *j);
 }
 
 
@@ -162,16 +162,16 @@ void inicializaPivo(Pivo *pivo){
 void leSup(FILE **ArqLEs, Aluno *UltLido, int *Ls, short *OndeLer){
     fseek(*ArqLEs, (*Ls - 1) * sizeof(Aluno), SEEK_SET);
     fread(UltLido, sizeof(Aluno), 1, *ArqLEs);
-    printf("leu-se sup: %ld %lf\n", UltLido->inscricao, UltLido->nota);
-    printf("Ponteiro da leitura: %d", *Ls);
+    // printf("leu-se sup: %ld %lf\n", UltLido->inscricao, UltLido->nota);
+    // printf("Ponteiro da leitura: %d", *Ls);
     (*Ls)--;
     *OndeLer = 0;
 }
 
 void leInf(FILE **ArqLi, Aluno *UltLido, int *Li, short *OndeLer){
     fread(UltLido, sizeof(Aluno), 1, *ArqLi);
-    printf("leu-se inf: %ld %lf\n", UltLido->inscricao, UltLido->nota);
-    printf("Ponteiro da leitura: %d", *Li);
+    // printf("leu-se inf: %ld %lf\n", UltLido->inscricao, UltLido->nota);
+    // printf("Ponteiro da leitura: %d", *Li);
     (*Li)++;
     *OndeLer = 1;
 }
@@ -193,7 +193,7 @@ void escreveMax(FILE **ArqLEs, Aluno aluno, int *Es){
     // Aluno al;
     fseek(*ArqLEs, (*Es - 1) * sizeof(Aluno), SEEK_SET);
     fwrite(&aluno, sizeof(Aluno), 1, *ArqLEs);
-    printf("\nEscreveu na posição %d do arquivo o aluno de nota: %lf", *Es, aluno.nota);
+    // printf("\nEscreveu na posição %d do arquivo o aluno de nota: %lf", *Es, aluno.nota);
     // fseek(*ArqLEs, (*Es - 1) * sizeof(Aluno), SEEK_SET);
     // fread(&al, sizeof(Aluno), 1, *ArqLEs);
     // printf("\nEscrita: %lf\n", al.nota);
@@ -201,7 +201,7 @@ void escreveMax(FILE **ArqLEs, Aluno aluno, int *Es){
 }
 
 void escreveMin(FILE **ArqEi, Aluno aluno, int *Ei){
-    printf("\nEscreveu na posição %d do arquivo o aluno de nota: %lf", *Ei, aluno.nota);
+    // printf("\nEscreveu na posição %d do arquivo o aluno de nota: %lf", *Ei, aluno.nota);
     fwrite(&aluno, sizeof(Aluno), 1, *ArqEi);
     (*Ei)++;
 }
