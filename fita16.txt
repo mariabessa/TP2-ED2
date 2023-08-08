@@ -1,0 +1,40 @@
+26451 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+109386 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+295148 20.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+66569 31.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+387342 31.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+32997 32.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+36075 38.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+123938 40.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+59542 43.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+346924 45.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+115010 46.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+49975 46.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+304166 47.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+112781 47.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+220216 48.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+356030 51.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+113382 53.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+96183 53.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+22147 55.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+367644 60.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+350210 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+52017 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+187784 30.000000 LONDRINA                                          PR ADMINISTRACAO                
+361018 32.000000 LONDRINA                                          PR ADMINISTRACAO                
+135750 33.500000 LONDRINA                                          PR ADMINISTRACAO                
+444180 39.000000 LONDRINA                                          PR ADMINISTRACAO                
+225632 41.500000 LONDRINA                                          PR ADMINISTRACAO                
+321747 43.000000 LONDRINA                                          PR ADMINISTRACAO                
+26256 45.000000 LONDRINA                                          PR ADMINISTRACAO                
+255215 47.300000 LONDRINA                                          PR ADMINISTRACAO                
+285318 47.800000 LONDRINA                                          PR ADMINISTRACAO                
+166314 48.500000 LONDRINA                                          PR ADMINISTRACAO                
+12427 51.300000 LONDRINA                                          PR ADMINISTRACAO                
+354373 53.500000 LONDRINA                                          PR ADMINISTRACAO                
+432322 53.800000 LONDRINA                                          PR ADMINISTRACAO                
+65453 54.000000 LONDRINA                                          PR ADMINISTRACAO                
+294443 56.300000 LONDRINA                                          PR ADMINISTRACAO                
+429859 61.000000 LONDRINA                                          PR ADMINISTRACAO                
+130458 65.000000 LONDRINA                                          PR ADMINISTRACAO                
+82780 84.300000 LONDRINA                                          PR ADMINISTRACAO                

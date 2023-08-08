@@ -1,0 +1,40 @@
+95662 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+445958 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+411299 28.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+112564 32.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+178216 33.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+396530 35.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+25188 35.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+422625 38.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+34050 38.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+186581 39.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+336507 46.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+293078 46.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+205101 47.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+453078 49.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+300790 49.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+276824 51.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+205746 51.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+33559 51.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+315733 60.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+15294 70.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+301704 32.800000 VICOSA                                            MG ADMINISTRACAO                
+110356 34.000000 VICOSA                                            MG ADMINISTRACAO                
+368930 40.000000 VICOSA                                            MG ADMINISTRACAO                
+455270 42.300000 VICOSA                                            MG ADMINISTRACAO                
+17999 43.300000 VICOSA                                            MG ADMINISTRACAO                
+417510 43.500000 VICOSA                                            MG ADMINISTRACAO                
+317012 44.000000 VICOSA                                            MG ADMINISTRACAO                
+48121 46.000000 VICOSA                                            MG ADMINISTRACAO                
+97761 51.800000 VICOSA                                            MG ADMINISTRACAO                
+374759 54.000000 VICOSA                                            MG ADMINISTRACAO                
+224341 54.300000 VICOSA                                            MG ADMINISTRACAO                
+259302 55.500000 VICOSA                                            MG ADMINISTRACAO                
+289862 56.000000 VICOSA                                            MG ADMINISTRACAO                
+19346 56.300000 VICOSA                                            MG ADMINISTRACAO                
+114641 58.800000 VICOSA                                            MG ADMINISTRACAO                
+299622 59.000000 VICOSA                                            MG ADMINISTRACAO                
+76327 60.500000 VICOSA                                            MG ADMINISTRACAO                
+367133 61.500000 VICOSA                                            MG ADMINISTRACAO                
+215769 61.800000 VICOSA                                            MG ADMINISTRACAO                
+425270 61.800000 VICOSA                                            MG ADMINISTRACAO                

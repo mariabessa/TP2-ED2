@@ -1,0 +1,1000 @@
+170838 0.000000 CUIABA                                            MT ADMINISTRACAO                
+313201 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+300056 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+319299 0.000000 CUIABA                                            MT ADMINISTRACAO                
+65996 0.000000 AGUA BOA                                          MT ADMINISTRACAO                
+362081 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+183699 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+57202 0.000000 AGUA BOA                                          MT ADMINISTRACAO                
+301503 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+210080 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+268715 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+450981 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+17250 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+169350 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+85432 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+397177 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+119390 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+203084 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+250589 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+95662 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+445958 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+243219 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+456165 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+34800 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+26451 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+109386 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+230537 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+417534 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+116081 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+461082 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+316162 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+115074 0.000000 MANAUS                                            AM ADMINISTRACAO                
+85413 0.000000 MANAUS                                            AM ADMINISTRACAO                
+324555 0.000000 MANAUS                                            AM ADMINISTRACAO                
+462658 0.000000 MANAUS                                            AM ADMINISTRACAO                
+84008 0.000000 MANAUS                                            AM ADMINISTRACAO                
+200146 0.000000 MANAUS                                            AM ADMINISTRACAO                
+165788 0.000000 MANAUS                                            AM ADMINISTRACAO                
+273019 0.000000 MANAUS                                            AM ADMINISTRACAO                
+340639 0.000000 MANAUS                                            AM ADMINISTRACAO                
+464249 0.000000 MANAUS                                            AM ADMINISTRACAO                
+368431 0.000000 MANAUS                                            AM ADMINISTRACAO                
+283081 0.000000 MANAUS                                            AM ADMINISTRACAO                
+233795 0.000000 MANAUS                                            AM ADMINISTRACAO                
+322422 0.000000 MANAUS                                            AM ADMINISTRACAO                
+74556 0.000000 PARNAIBA                                          PI ADMINISTRACAO                
+158000 0.000000 PARNAIBA                                          PI ADMINISTRACAO                
+318273 0.000000 TERESINA                                          PI ADMINISTRACAO                
+354669 0.000000 TERESINA                                          PI ADMINISTRACAO                
+153042 0.000000 TERESINA                                          PI ADMINISTRACAO                
+395218 0.000000 TERESINA                                          PI ADMINISTRACAO                
+49454 0.000000 TERESINA                                          PI ADMINISTRACAO                
+414859 0.000000 VICOSA                                            MG ADMINISTRACAO                
+304747 0.000000 VICOSA                                            MG ADMINISTRACAO                
+213197 0.000000 VICOSA                                            MG ADMINISTRACAO                
+107705 0.000000 VICOSA                                            MG ADMINISTRACAO                
+453786 0.000000 VICOSA                                            MG ADMINISTRACAO                
+350210 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+52017 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+76367 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+3916 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+94462 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+348940 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+209168 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+214669 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+99721 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+337849 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+91130 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+24986 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+440868 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+89539 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+296012 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+290808 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+332468 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+94490 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+392432 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+430397 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+351965 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+49198 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+29001 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+444554 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+210753 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+184508 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+106091 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+468267 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+221936 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+466064 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+435515 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+103160 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+235866 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+71684 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+219212 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+195989 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+326182 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+57324 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+92849 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+231014 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+226231 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+219879 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+113716 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+111657 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+48163 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+313078 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+425888 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+92372 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+181742 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+447123 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+179919 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+71366 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+5885 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+289304 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+134115 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+265237 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+162993 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+119835 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+42668 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+205218 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+401313 10.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+119746 12.500000 BRASILIA                                          DF ADMINISTRACAO                
+220132 14.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+76729 14.500000 TERESINA                                          PI ADMINISTRACAO                
+221150 15.000000 PARNAIBA                                          PI ADMINISTRACAO                
+369324 15.300000 CURITIBA                                          PR ADMINISTRACAO                
+423855 16.300000 CUIABA                                            MT ADMINISTRACAO                
+329987 16.300000 TERESINA                                          PI ADMINISTRACAO                
+433866 16.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+170558 17.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+94374 17.500000 MANAUS                                            AM ADMINISTRACAO                
+273076 17.500000 MANAUS                                            AM ADMINISTRACAO                
+273968 17.500000 LONDRINA                                          PR ADMINISTRACAO                
+140465 17.500000 LONDRINA                                          PR ADMINISTRACAO                
+111954 17.800000 CUIABA                                            MT ADMINISTRACAO                
+293831 18.300000 MANAUS                                            AM ADMINISTRACAO                
+418828 18.300000 MANAUS                                            AM ADMINISTRACAO                
+291665 18.500000 MANAUS                                            AM ADMINISTRACAO                
+66198 18.800000 CUIABA                                            MT ADMINISTRACAO                
+107236 18.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+105583 18.800000 BRASILIA                                          DF ADMINISTRACAO                
+417884 18.800000 MANAUS                                            AM ADMINISTRACAO                
+35798 20.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+259213 20.000000 BRASILIA                                          DF ADMINISTRACAO                
+207373 20.000000 MANAUS                                            AM ADMINISTRACAO                
+463262 20.000000 MANAUS                                            AM ADMINISTRACAO                
+217201 20.000000 MANAUS                                            AM ADMINISTRACAO                
+386583 20.000000 MANAUS                                            AM ADMINISTRACAO                
+295148 20.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+173550 20.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+112505 21.000000 LONDRINA                                          PR ADMINISTRACAO                
+253139 21.300000 BRASILIA                                          DF ADMINISTRACAO                
+457807 21.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+149115 21.300000 MANAUS                                            AM ADMINISTRACAO                
+327968 21.300000 PARNAIBA                                          PI ADMINISTRACAO                
+84823 21.500000 MANAUS                                            AM ADMINISTRACAO                
+357755 21.500000 TERESINA                                          PI ADMINISTRACAO                
+58525 21.800000 PARNAIBA                                          PI ADMINISTRACAO                
+30824 21.800000 VICOSA                                            MG ADMINISTRACAO                
+23133 22.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+238292 22.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+305837 22.000000 LONDRINA                                          PR ADMINISTRACAO                
+84421 22.500000 BRASILIA                                          DF ADMINISTRACAO                
+63641 22.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+239866 22.500000 MANAUS                                            AM ADMINISTRACAO                
+335581 22.500000 MANAUS                                            AM ADMINISTRACAO                
+107733 22.500000 MANAUS                                            AM ADMINISTRACAO                
+29920 22.500000 MANAUS                                            AM ADMINISTRACAO                
+387585 22.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+232317 23.000000 PARNAIBA                                          PI ADMINISTRACAO                
+356952 23.500000 MANAUS                                            AM ADMINISTRACAO                
+86323 23.500000 MANAUS                                            AM ADMINISTRACAO                
+352323 23.500000 MANAUS                                            AM ADMINISTRACAO                
+325691 23.500000 TERESINA                                          PI ADMINISTRACAO                
+312111 23.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+216194 23.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+336015 24.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+63830 24.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+156344 24.300000 CURITIBA                                          PR ADMINISTRACAO                
+121505 24.500000 CUIABA                                            MT ADMINISTRACAO                
+124597 24.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+56650 24.500000 TERESINA                                          PI ADMINISTRACAO                
+266061 24.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+157560 24.800000 MANAUS                                            AM ADMINISTRACAO                
+312745 24.800000 MANAUS                                            AM ADMINISTRACAO                
+116493 25.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+126136 25.000000 MANAUS                                            AM ADMINISTRACAO                
+292670 25.000000 MANAUS                                            AM ADMINISTRACAO                
+97052 25.300000 MANAUS                                            AM ADMINISTRACAO                
+301105 25.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+289433 25.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+248417 26.000000 PARNAIBA                                          PI ADMINISTRACAO                
+384614 26.300000 TERESINA                                          PI ADMINISTRACAO                
+143639 26.300000 CURITIBA                                          PR ADMINISTRACAO                
+446905 26.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+268784 26.800000 MANAUS                                            AM ADMINISTRACAO                
+327058 27.000000 VICOSA                                            MG ADMINISTRACAO                
+130949 27.300000 MANAUS                                            AM ADMINISTRACAO                
+380532 27.300000 TERESINA                                          PI ADMINISTRACAO                
+34535 27.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+224450 27.500000 CUIABA                                            MT ADMINISTRACAO                
+226563 27.500000 TERESINA                                          PI ADMINISTRACAO                
+25999 27.500000 PARNAIBA                                          PI ADMINISTRACAO                
+80915 27.800000 MANAUS                                            AM ADMINISTRACAO                
+348112 27.800000 LONDRINA                                          PR ADMINISTRACAO                
+429917 27.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+113812 28.000000 CUIABA                                            MT ADMINISTRACAO                
+411299 28.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+234756 28.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+140865 28.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+205242 28.500000 TERESINA                                          PI ADMINISTRACAO                
+227988 28.800000 LONDRINA                                          PR ADMINISTRACAO                
+105494 29.000000 CURITIBA                                          PR ADMINISTRACAO                
+82340 29.300000 MANAUS                                            AM ADMINISTRACAO                
+337846 29.500000 PARNAIBA                                          PI ADMINISTRACAO                
+171020 29.500000 PARNAIBA                                          PI ADMINISTRACAO                
+378258 29.800000 MANAUS                                            AM ADMINISTRACAO                
+415432 29.800000 PARNAIBA                                          PI ADMINISTRACAO                
+182746 30.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+155589 30.000000 BRASILIA                                          DF ADMINISTRACAO                
+187784 30.000000 LONDRINA                                          PR ADMINISTRACAO                
+71325 30.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+71811 30.300000 LONDRINA                                          PR ADMINISTRACAO                
+133721 30.500000 MANAUS                                            AM ADMINISTRACAO                
+350655 31.000000 CUIABA                                            MT ADMINISTRACAO                
+413253 31.000000 MANAUS                                            AM ADMINISTRACAO                
+351682 31.000000 MANAUS                                            AM ADMINISTRACAO                
+167390 31.000000 PARNAIBA                                          PI ADMINISTRACAO                
+330044 31.000000 CURITIBA                                          PR ADMINISTRACAO                
+226720 31.000000 CURITIBA                                          PR ADMINISTRACAO                
+21887 31.300000 CUIABA                                            MT ADMINISTRACAO                
+66569 31.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+80301 31.300000 MANAUS                                            AM ADMINISTRACAO                
+106233 31.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+387342 31.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+233406 31.500000 MANAUS                                            AM ADMINISTRACAO                
+13553 31.500000 VICOSA                                            MG ADMINISTRACAO                
+200707 31.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+85344 31.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+92076 31.800000 BRASILIA                                          DF ADMINISTRACAO                
+403081 31.800000 MANAUS                                            AM ADMINISTRACAO                
+4921 31.800000 TERESINA                                          PI ADMINISTRACAO                
+149018 32.000000 BRASILIA                                          DF ADMINISTRACAO                
+32997 32.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+295848 32.000000 MANAUS                                            AM ADMINISTRACAO                
+392820 32.000000 PARNAIBA                                          PI ADMINISTRACAO                
+109676 32.000000 PARNAIBA                                          PI ADMINISTRACAO                
+361018 32.000000 LONDRINA                                          PR ADMINISTRACAO                
+421422 32.000000 LONDRINA                                          PR ADMINISTRACAO                
+123883 32.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+170034 32.300000 MANAUS                                            AM ADMINISTRACAO                
+103618 32.300000 VICOSA                                            MG ADMINISTRACAO                
+361724 32.300000 LONDRINA                                          PR ADMINISTRACAO                
+27801 32.500000 MANAUS                                            AM ADMINISTRACAO                
+382884 32.500000 VICOSA                                            MG ADMINISTRACAO                
+275596 32.500000 LONDRINA                                          PR ADMINISTRACAO                
+112564 32.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+352413 32.800000 PARNAIBA                                          PI ADMINISTRACAO                
+441323 32.800000 TERESINA                                          PI ADMINISTRACAO                
+301704 32.800000 VICOSA                                            MG ADMINISTRACAO                
+170937 32.800000 LONDRINA                                          PR ADMINISTRACAO                
+278666 33.000000 BRASILIA                                          DF ADMINISTRACAO                
+219113 33.000000 MANAUS                                            AM ADMINISTRACAO                
+102238 33.000000 PARNAIBA                                          PI ADMINISTRACAO                
+254576 33.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+108114 33.300000 MANAUS                                            AM ADMINISTRACAO                
+340592 33.300000 MANAUS                                            AM ADMINISTRACAO                
+47472 33.300000 PARNAIBA                                          PI ADMINISTRACAO                
+373477 33.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+178216 33.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+149603 33.500000 MANAUS                                            AM ADMINISTRACAO                
+471379 33.500000 PARNAIBA                                          PI ADMINISTRACAO                
+135750 33.500000 LONDRINA                                          PR ADMINISTRACAO                
+28009 33.800000 MANAUS                                            AM ADMINISTRACAO                
+451115 33.800000 MANAUS                                            AM ADMINISTRACAO                
+435142 33.800000 MANAUS                                            AM ADMINISTRACAO                
+36392 34.000000 MANAUS                                            AM ADMINISTRACAO                
+301300 34.000000 MANAUS                                            AM ADMINISTRACAO                
+249816 34.000000 PARNAIBA                                          PI ADMINISTRACAO                
+130373 34.000000 TERESINA                                          PI ADMINISTRACAO                
+110356 34.000000 VICOSA                                            MG ADMINISTRACAO                
+189407 34.000000 VICOSA                                            MG ADMINISTRACAO                
+239419 34.300000 CUIABA                                            MT ADMINISTRACAO                
+280726 34.300000 BRASILIA                                          DF ADMINISTRACAO                
+136049 34.300000 MANAUS                                            AM ADMINISTRACAO                
+88300 34.300000 TERESINA                                          PI ADMINISTRACAO                
+297053 34.300000 PARNAIBA                                          PI ADMINISTRACAO                
+399531 34.300000 TERESINA                                          PI ADMINISTRACAO                
+122455 34.500000 MANAUS                                            AM ADMINISTRACAO                
+45273 34.500000 MANAUS                                            AM ADMINISTRACAO                
+257474 34.500000 LONDRINA                                          PR ADMINISTRACAO                
+37379 34.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+365545 34.800000 MANAUS                                            AM ADMINISTRACAO                
+19284 35.000000 BRASILIA                                          DF ADMINISTRACAO                
+396530 35.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+85358 35.000000 MANAUS                                            AM ADMINISTRACAO                
+241850 35.000000 LONDRINA                                          PR ADMINISTRACAO                
+269932 35.300000 CUIABA                                            MT ADMINISTRACAO                
+398672 35.300000 PARNAIBA                                          PI ADMINISTRACAO                
+463955 35.300000 TERESINA                                          PI ADMINISTRACAO                
+177525 35.300000 TERESINA                                          PI ADMINISTRACAO                
+360367 35.300000 LONDRINA                                          PR ADMINISTRACAO                
+459126 35.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+137887 35.500000 MANAUS                                            AM ADMINISTRACAO                
+61892 35.500000 MANAUS                                            AM ADMINISTRACAO                
+61544 35.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+25188 35.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+8586 35.800000 PARNAIBA                                          PI ADMINISTRACAO                
+439069 35.800000 LONDRINA                                          PR ADMINISTRACAO                
+227159 36.000000 MANAUS                                            AM ADMINISTRACAO                
+153723 36.000000 MANAUS                                            AM ADMINISTRACAO                
+228864 36.000000 MANAUS                                            AM ADMINISTRACAO                
+48161 36.000000 CURITIBA                                          PR ADMINISTRACAO                
+201952 36.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+446373 36.300000 BRASILIA                                          DF ADMINISTRACAO                
+50848 36.300000 MANAUS                                            AM ADMINISTRACAO                
+364281 36.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+221291 36.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+59131 36.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+261845 36.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+419670 36.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+253930 36.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+331437 37.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+217886 37.000000 BRASILIA                                          DF ADMINISTRACAO                
+71577 37.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+332160 37.000000 MANAUS                                            AM ADMINISTRACAO                
+54048 37.000000 MANAUS                                            AM ADMINISTRACAO                
+446102 37.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+228222 37.300000 BRASILIA                                          DF ADMINISTRACAO                
+453379 37.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+159186 37.300000 MANAUS                                            AM ADMINISTRACAO                
+129347 37.300000 MANAUS                                            AM ADMINISTRACAO                
+274212 37.300000 MANAUS                                            AM ADMINISTRACAO                
+58175 37.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+350881 37.500000 BRASILIA                                          DF ADMINISTRACAO                
+208266 37.500000 MANAUS                                            AM ADMINISTRACAO                
+416795 37.800000 TERESINA                                          PI ADMINISTRACAO                
+335198 37.800000 PARNAIBA                                          PI ADMINISTRACAO                
+314025 37.800000 VICOSA                                            MG ADMINISTRACAO                
+346592 38.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+5213 38.000000 BRASILIA                                          DF ADMINISTRACAO                
+329608 38.000000 BRASILIA                                          DF ADMINISTRACAO                
+422625 38.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+34050 38.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+114422 38.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+114544 38.500000 MANAUS                                            AM ADMINISTRACAO                
+214331 38.500000 VICOSA                                            MG ADMINISTRACAO                
+3393 38.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+424746 38.800000 BRASILIA                                          DF ADMINISTRACAO                
+36075 38.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+200258 38.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+376771 38.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+186581 39.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+73822 39.000000 PARNAIBA                                          PI ADMINISTRACAO                
+444180 39.000000 LONDRINA                                          PR ADMINISTRACAO                
+419751 39.300000 PARNAIBA                                          PI ADMINISTRACAO                
+279415 39.300000 CURITIBA                                          PR ADMINISTRACAO                
+21433 39.500000 BRASILIA                                          DF ADMINISTRACAO                
+251426 39.500000 MANAUS                                            AM ADMINISTRACAO                
+333364 39.500000 TERESINA                                          PI ADMINISTRACAO                
+461815 39.500000 VICOSA                                            MG ADMINISTRACAO                
+200147 39.500000 LONDRINA                                          PR ADMINISTRACAO                
+69224 39.500000 CURITIBA                                          PR ADMINISTRACAO                
+412481 39.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+113285 39.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+314937 39.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+219119 39.800000 CURITIBA                                          PR ADMINISTRACAO                
+383153 40.000000 MANAUS                                            AM ADMINISTRACAO                
+89359 40.000000 TERESINA                                          PI ADMINISTRACAO                
+52105 40.000000 VICOSA                                            MG ADMINISTRACAO                
+368930 40.000000 VICOSA                                            MG ADMINISTRACAO                
+213784 40.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+378110 40.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+368900 40.300000 MANAUS                                            AM ADMINISTRACAO                
+294906 40.300000 MANAUS                                            AM ADMINISTRACAO                
+139918 40.300000 MANAUS                                            AM ADMINISTRACAO                
+100680 40.300000 CURITIBA                                          PR ADMINISTRACAO                
+146301 40.300000 CURITIBA                                          PR ADMINISTRACAO                
+454483 40.500000 CUIABA                                            MT ADMINISTRACAO                
+402740 40.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+381653 40.500000 MANAUS                                            AM ADMINISTRACAO                
+167379 40.500000 VICOSA                                            MG ADMINISTRACAO                
+381088 40.500000 LONDRINA                                          PR ADMINISTRACAO                
+284633 40.500000 LONDRINA                                          PR ADMINISTRACAO                
+123938 40.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+368312 40.800000 PARNAIBA                                          PI ADMINISTRACAO                
+129275 40.800000 LONDRINA                                          PR ADMINISTRACAO                
+368345 40.800000 LONDRINA                                          PR ADMINISTRACAO                
+98672 40.800000 LONDRINA                                          PR ADMINISTRACAO                
+338433 41.000000 BRASILIA                                          DF ADMINISTRACAO                
+288612 41.000000 MANAUS                                            AM ADMINISTRACAO                
+195348 41.000000 MANAUS                                            AM ADMINISTRACAO                
+18642 41.000000 LONDRINA                                          PR ADMINISTRACAO                
+69108 41.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+213978 41.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+380734 41.300000 MANAUS                                            AM ADMINISTRACAO                
+415030 41.300000 TERESINA                                          PI ADMINISTRACAO                
+394362 41.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+225632 41.500000 LONDRINA                                          PR ADMINISTRACAO                
+458248 41.500000 LONDRINA                                          PR ADMINISTRACAO                
+1370 41.500000 CURITIBA                                          PR ADMINISTRACAO                
+382513 41.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+12236 41.800000 MANAUS                                            AM ADMINISTRACAO                
+422254 41.800000 LONDRINA                                          PR ADMINISTRACAO                
+360424 41.800000 LONDRINA                                          PR ADMINISTRACAO                
+205606 41.800000 CURITIBA                                          PR ADMINISTRACAO                
+142590 42.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+125100 42.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+468659 42.000000 MANAUS                                            AM ADMINISTRACAO                
+84990 42.000000 PARNAIBA                                          PI ADMINISTRACAO                
+14281 42.000000 VICOSA                                            MG ADMINISTRACAO                
+224687 42.000000 LONDRINA                                          PR ADMINISTRACAO                
+162633 42.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+186893 42.300000 MANAUS                                            AM ADMINISTRACAO                
+305445 42.300000 MANAUS                                            AM ADMINISTRACAO                
+455789 42.300000 PARNAIBA                                          PI ADMINISTRACAO                
+455270 42.300000 VICOSA                                            MG ADMINISTRACAO                
+324897 42.300000 VICOSA                                            MG ADMINISTRACAO                
+386649 42.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+130170 42.500000 BRASILIA                                          DF ADMINISTRACAO                
+1486 42.500000 MANAUS                                            AM ADMINISTRACAO                
+452861 42.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+457856 42.800000 VICOSA                                            MG ADMINISTRACAO                
+53055 42.800000 VICOSA                                            MG ADMINISTRACAO                
+231764 42.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+438411 42.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+22952 43.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+452420 43.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+21239 43.000000 MANAUS                                            AM ADMINISTRACAO                
+321747 43.000000 LONDRINA                                          PR ADMINISTRACAO                
+240348 43.000000 LONDRINA                                          PR ADMINISTRACAO                
+69926 43.300000 MANAUS                                            AM ADMINISTRACAO                
+280953 43.300000 PARNAIBA                                          PI ADMINISTRACAO                
+17999 43.300000 VICOSA                                            MG ADMINISTRACAO                
+140708 43.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+280714 43.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+5317 43.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+59573 43.500000 CUIABA                                            MT ADMINISTRACAO                
+30293 43.500000 MANAUS                                            AM ADMINISTRACAO                
+311853 43.500000 TERESINA                                          PI ADMINISTRACAO                
+417510 43.500000 VICOSA                                            MG ADMINISTRACAO                
+351991 43.800000 CUIABA                                            MT ADMINISTRACAO                
+59542 43.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+304832 44.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+326232 44.000000 PARNAIBA                                          PI ADMINISTRACAO                
+317012 44.000000 VICOSA                                            MG ADMINISTRACAO                
+53475 44.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+123309 44.000000 CURITIBA                                          PR ADMINISTRACAO                
+412790 44.300000 CUIABA                                            MT ADMINISTRACAO                
+163079 44.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+66354 44.300000 BRASILIA                                          DF ADMINISTRACAO                
+44810 44.300000 VICOSA                                            MG ADMINISTRACAO                
+109012 44.300000 LONDRINA                                          PR ADMINISTRACAO                
+24106 44.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+41603 44.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+57637 44.500000 MANAUS                                            AM ADMINISTRACAO                
+306030 44.500000 MANAUS                                            AM ADMINISTRACAO                
+470990 44.500000 LONDRINA                                          PR ADMINISTRACAO                
+286995 44.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+384572 44.800000 BRASILIA                                          DF ADMINISTRACAO                
+401893 44.800000 PARNAIBA                                          PI ADMINISTRACAO                
+321961 44.800000 VICOSA                                            MG ADMINISTRACAO                
+443242 44.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+209822 45.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+348074 45.000000 BRASILIA                                          DF ADMINISTRACAO                
+283054 45.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+317024 45.000000 MANAUS                                            AM ADMINISTRACAO                
+26256 45.000000 LONDRINA                                          PR ADMINISTRACAO                
+470311 45.000000 LONDRINA                                          PR ADMINISTRACAO                
+141989 45.000000 LONDRINA                                          PR ADMINISTRACAO                
+229720 45.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+195190 45.300000 BRASILIA                                          DF ADMINISTRACAO                
+346924 45.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+410910 45.300000 TERESINA                                          PI ADMINISTRACAO                
+133850 45.300000 CURITIBA                                          PR ADMINISTRACAO                
+49605 45.300000 CURITIBA                                          PR ADMINISTRACAO                
+305092 45.500000 BRASILIA                                          DF ADMINISTRACAO                
+422511 45.500000 MANAUS                                            AM ADMINISTRACAO                
+366962 45.500000 MANAUS                                            AM ADMINISTRACAO                
+312544 45.500000 MANAUS                                            AM ADMINISTRACAO                
+127326 45.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+324740 45.800000 MANAUS                                            AM ADMINISTRACAO                
+391346 45.800000 MANAUS                                            AM ADMINISTRACAO                
+192376 45.800000 LONDRINA                                          PR ADMINISTRACAO                
+34474 45.800000 CURITIBA                                          PR ADMINISTRACAO                
+303348 45.800000 CURITIBA                                          PR ADMINISTRACAO                
+107535 45.800000 CURITIBA                                          PR ADMINISTRACAO                
+412715 46.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+61117 46.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+213434 46.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+336507 46.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+3517 46.000000 MANAUS                                            AM ADMINISTRACAO                
+437129 46.000000 MANAUS                                            AM ADMINISTRACAO                
+128972 46.000000 MANAUS                                            AM ADMINISTRACAO                
+110621 46.000000 VICOSA                                            MG ADMINISTRACAO                
+48121 46.000000 VICOSA                                            MG ADMINISTRACAO                
+325485 46.000000 LONDRINA                                          PR ADMINISTRACAO                
+144718 46.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+115010 46.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+92172 46.300000 PARNAIBA                                          PI ADMINISTRACAO                
+233237 46.300000 VICOSA                                            MG ADMINISTRACAO                
+314555 46.300000 CURITIBA                                          PR ADMINISTRACAO                
+93169 46.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+10357 46.500000 CUIABA                                            MT ADMINISTRACAO                
+77617 46.500000 BRASILIA                                          DF ADMINISTRACAO                
+402164 46.500000 MANAUS                                            AM ADMINISTRACAO                
+432962 46.500000 LONDRINA                                          PR ADMINISTRACAO                
+17482 46.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+306648 46.800000 BRASILIA                                          DF ADMINISTRACAO                
+67407 46.800000 BRASILIA                                          DF ADMINISTRACAO                
+293078 46.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+49975 46.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+36078 46.800000 MANAUS                                            AM ADMINISTRACAO                
+16318 46.800000 TERESINA                                          PI ADMINISTRACAO                
+307220 46.800000 TERESINA                                          PI ADMINISTRACAO                
+267657 46.800000 VICOSA                                            MG ADMINISTRACAO                
+463351 46.800000 CURITIBA                                          PR ADMINISTRACAO                
+317654 46.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+295222 47.000000 CUIABA                                            MT ADMINISTRACAO                
+205101 47.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+311610 47.000000 MANAUS                                            AM ADMINISTRACAO                
+169983 47.000000 MANAUS                                            AM ADMINISTRACAO                
+219752 47.000000 PARNAIBA                                          PI ADMINISTRACAO                
+323220 47.000000 PARNAIBA                                          PI ADMINISTRACAO                
+103825 47.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+78506 47.300000 MANAUS                                            AM ADMINISTRACAO                
+3196 47.300000 MANAUS                                            AM ADMINISTRACAO                
+400170 47.300000 MANAUS                                            AM ADMINISTRACAO                
+99183 47.300000 PARNAIBA                                          PI ADMINISTRACAO                
+255215 47.300000 LONDRINA                                          PR ADMINISTRACAO                
+266521 47.300000 LONDRINA                                          PR ADMINISTRACAO                
+406263 47.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+368815 47.500000 BRASILIA                                          DF ADMINISTRACAO                
+286286 47.500000 BRASILIA                                          DF ADMINISTRACAO                
+304166 47.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+145396 47.500000 MANAUS                                            AM ADMINISTRACAO                
+73527 47.500000 MANAUS                                            AM ADMINISTRACAO                
+7814 47.500000 MANAUS                                            AM ADMINISTRACAO                
+249107 47.500000 PARNAIBA                                          PI ADMINISTRACAO                
+99378 47.500000 VICOSA                                            MG ADMINISTRACAO                
+228957 47.500000 LONDRINA                                          PR ADMINISTRACAO                
+214949 47.500000 CURITIBA                                          PR ADMINISTRACAO                
+257538 47.500000 CURITIBA                                          PR ADMINISTRACAO                
+469270 47.500000 CURITIBA                                          PR ADMINISTRACAO                
+212231 47.800000 BRASILIA                                          DF ADMINISTRACAO                
+355310 47.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+112781 47.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+106676 47.800000 MANAUS                                            AM ADMINISTRACAO                
+458650 47.800000 PARNAIBA                                          PI ADMINISTRACAO                
+285318 47.800000 LONDRINA                                          PR ADMINISTRACAO                
+194344 47.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+113892 47.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+278763 48.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+409557 48.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+169792 48.000000 BRASILIA                                          DF ADMINISTRACAO                
+190369 48.000000 BRASILIA                                          DF ADMINISTRACAO                
+324583 48.000000 BRASILIA                                          DF ADMINISTRACAO                
+183839 48.000000 MANAUS                                            AM ADMINISTRACAO                
+410926 48.000000 VICOSA                                            MG ADMINISTRACAO                
+175131 48.000000 LONDRINA                                          PR ADMINISTRACAO                
+347068 48.300000 BRASILIA                                          DF ADMINISTRACAO                
+220216 48.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+344756 48.300000 MANAUS                                            AM ADMINISTRACAO                
+253017 48.300000 LONDRINA                                          PR ADMINISTRACAO                
+2744 48.500000 BRASILIA                                          DF ADMINISTRACAO                
+8834 48.500000 BRASILIA                                          DF ADMINISTRACAO                
+353811 48.500000 TERESINA                                          PI ADMINISTRACAO                
+413185 48.500000 VICOSA                                            MG ADMINISTRACAO                
+166314 48.500000 LONDRINA                                          PR ADMINISTRACAO                
+231457 48.500000 LONDRINA                                          PR ADMINISTRACAO                
+400505 48.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+214523 48.500000 CURITIBA                                          PR ADMINISTRACAO                
+9997 48.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+207334 48.800000 CUIABA                                            MT ADMINISTRACAO                
+427229 48.800000 VICOSA                                            MG ADMINISTRACAO                
+151750 49.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+453078 49.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+300790 49.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+349603 49.000000 LONDRINA                                          PR ADMINISTRACAO                
+52569 49.000000 LONDRINA                                          PR ADMINISTRACAO                
+340424 49.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+190351 49.300000 BRASILIA                                          DF ADMINISTRACAO                
+218999 49.300000 VICOSA                                            MG ADMINISTRACAO                
+447781 49.300000 VICOSA                                            MG ADMINISTRACAO                
+32247 49.300000 LONDRINA                                          PR ADMINISTRACAO                
+94945 49.300000 LONDRINA                                          PR ADMINISTRACAO                
+304505 49.300000 CURITIBA                                          PR ADMINISTRACAO                
+119830 49.500000 BRASILIA                                          DF ADMINISTRACAO                
+161889 49.500000 BRASILIA                                          DF ADMINISTRACAO                
+142597 49.500000 MANAUS                                            AM ADMINISTRACAO                
+5627 49.500000 PARNAIBA                                          PI ADMINISTRACAO                
+271484 49.500000 VICOSA                                            MG ADMINISTRACAO                
+329668 49.800000 BRASILIA                                          DF ADMINISTRACAO                
+21971 49.800000 PARNAIBA                                          PI ADMINISTRACAO                
+118340 49.800000 VICOSA                                            MG ADMINISTRACAO                
+374893 49.800000 LONDRINA                                          PR ADMINISTRACAO                
+301802 50.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+144473 50.000000 BRASILIA                                          DF ADMINISTRACAO                
+354122 50.000000 BRASILIA                                          DF ADMINISTRACAO                
+114282 50.000000 BRASILIA                                          DF ADMINISTRACAO                
+398699 50.000000 LONDRINA                                          PR ADMINISTRACAO                
+425187 50.000000 LONDRINA                                          PR ADMINISTRACAO                
+229079 50.000000 CURITIBA                                          PR ADMINISTRACAO                
+258469 50.300000 BRASILIA                                          DF ADMINISTRACAO                
+337759 50.300000 BRASILIA                                          DF ADMINISTRACAO                
+115970 50.300000 PARNAIBA                                          PI ADMINISTRACAO                
+51603 50.300000 TERESINA                                          PI ADMINISTRACAO                
+81658 50.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+142408 50.300000 CURITIBA                                          PR ADMINISTRACAO                
+164535 50.500000 BRASILIA                                          DF ADMINISTRACAO                
+406521 50.500000 BRASILIA                                          DF ADMINISTRACAO                
+259826 50.500000 MANAUS                                            AM ADMINISTRACAO                
+121373 50.500000 MANAUS                                            AM ADMINISTRACAO                
+343392 50.500000 TERESINA                                          PI ADMINISTRACAO                
+206712 50.500000 LONDRINA                                          PR ADMINISTRACAO                
+352040 50.800000 BRASILIA                                          DF ADMINISTRACAO                
+337091 50.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+12390 50.800000 VICOSA                                            MG ADMINISTRACAO                
+134103 50.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+22350 51.000000 BRASILIA                                          DF ADMINISTRACAO                
+65840 51.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+180621 51.000000 LONDRINA                                          PR ADMINISTRACAO                
+112212 51.300000 BRASILIA                                          DF ADMINISTRACAO                
+276824 51.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+205746 51.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+12427 51.300000 LONDRINA                                          PR ADMINISTRACAO                
+81136 51.300000 LONDRINA                                          PR ADMINISTRACAO                
+33559 51.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+356030 51.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+317055 51.500000 MANAUS                                            AM ADMINISTRACAO                
+294257 51.500000 VICOSA                                            MG ADMINISTRACAO                
+2717 51.500000 LONDRINA                                          PR ADMINISTRACAO                
+349722 51.500000 CURITIBA                                          PR ADMINISTRACAO                
+88312 51.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+216227 51.800000 BRASILIA                                          DF ADMINISTRACAO                
+162535 51.800000 BRASILIA                                          DF ADMINISTRACAO                
+167833 51.800000 MANAUS                                            AM ADMINISTRACAO                
+280009 51.800000 TERESINA                                          PI ADMINISTRACAO                
+29095 51.800000 TERESINA                                          PI ADMINISTRACAO                
+97761 51.800000 VICOSA                                            MG ADMINISTRACAO                
+118668 51.800000 LONDRINA                                          PR ADMINISTRACAO                
+190046 51.800000 CURITIBA                                          PR ADMINISTRACAO                
+152355 51.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+142837 52.000000 BRASILIA                                          DF ADMINISTRACAO                
+55231 52.000000 BRASILIA                                          DF ADMINISTRACAO                
+425803 52.000000 BRASILIA                                          DF ADMINISTRACAO                
+29891 52.000000 VICOSA                                            MG ADMINISTRACAO                
+97378 52.000000 LONDRINA                                          PR ADMINISTRACAO                
+414264 52.000000 LONDRINA                                          PR ADMINISTRACAO                
+313733 52.000000 LONDRINA                                          PR ADMINISTRACAO                
+414861 52.300000 BRASILIA                                          DF ADMINISTRACAO                
+355968 52.300000 BRASILIA                                          DF ADMINISTRACAO                
+140962 52.300000 MANAUS                                            AM ADMINISTRACAO                
+295744 52.300000 PARNAIBA                                          PI ADMINISTRACAO                
+185865 52.300000 PARNAIBA                                          PI ADMINISTRACAO                
+467354 52.300000 VICOSA                                            MG ADMINISTRACAO                
+379237 52.300000 LONDRINA                                          PR ADMINISTRACAO                
+225218 52.300000 LONDRINA                                          PR ADMINISTRACAO                
+454208 52.500000 MANAUS                                            AM ADMINISTRACAO                
+90529 52.500000 TERESINA                                          PI ADMINISTRACAO                
+198972 52.500000 LONDRINA                                          PR ADMINISTRACAO                
+308793 52.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+130911 52.500000 CURITIBA                                          PR ADMINISTRACAO                
+317407 52.800000 BRASILIA                                          DF ADMINISTRACAO                
+202929 52.800000 LONDRINA                                          PR ADMINISTRACAO                
+210550 53.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+135818 53.000000 BRASILIA                                          DF ADMINISTRACAO                
+118861 53.000000 MANAUS                                            AM ADMINISTRACAO                
+5553 53.000000 MANAUS                                            AM ADMINISTRACAO                
+183899 53.000000 LONDRINA                                          PR ADMINISTRACAO                
+363557 53.000000 LONDRINA                                          PR ADMINISTRACAO                
+319117 53.000000 LONDRINA                                          PR ADMINISTRACAO                
+62175 53.000000 LONDRINA                                          PR ADMINISTRACAO                
+113382 53.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+116536 53.300000 MANAUS                                            AM ADMINISTRACAO                
+145535 53.300000 MANAUS                                            AM ADMINISTRACAO                
+350312 53.300000 VICOSA                                            MG ADMINISTRACAO                
+273426 53.300000 VICOSA                                            MG ADMINISTRACAO                
+37256 53.300000 VICOSA                                            MG ADMINISTRACAO                
+73691 53.300000 LONDRINA                                          PR ADMINISTRACAO                
+370724 53.500000 CUIABA                                            MT ADMINISTRACAO                
+427785 53.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+96183 53.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+339451 53.500000 MANAUS                                            AM ADMINISTRACAO                
+27309 53.500000 VICOSA                                            MG ADMINISTRACAO                
+354373 53.500000 LONDRINA                                          PR ADMINISTRACAO                
+258966 53.500000 LONDRINA                                          PR ADMINISTRACAO                
+11327 53.500000 LONDRINA                                          PR ADMINISTRACAO                
+276000 53.500000 LONDRINA                                          PR ADMINISTRACAO                
+266463 53.500000 CURITIBA                                          PR ADMINISTRACAO                
+374514 53.500000 CURITIBA                                          PR ADMINISTRACAO                
+454137 53.500000 CURITIBA                                          PR ADMINISTRACAO                
+120699 53.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+440588 53.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+355550 53.800000 BRASILIA                                          DF ADMINISTRACAO                
+167165 53.800000 BRASILIA                                          DF ADMINISTRACAO                
+366462 53.800000 BRASILIA                                          DF ADMINISTRACAO                
+251484 53.800000 MANAUS                                            AM ADMINISTRACAO                
+169912 53.800000 TERESINA                                          PI ADMINISTRACAO                
+252985 53.800000 VICOSA                                            MG ADMINISTRACAO                
+223395 53.800000 VICOSA                                            MG ADMINISTRACAO                
+432322 53.800000 LONDRINA                                          PR ADMINISTRACAO                
+161694 53.800000 LONDRINA                                          PR ADMINISTRACAO                
+164090 54.000000 BRASILIA                                          DF ADMINISTRACAO                
+374759 54.000000 VICOSA                                            MG ADMINISTRACAO                
+65453 54.000000 LONDRINA                                          PR ADMINISTRACAO                
+421729 54.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+339404 54.000000 CURITIBA                                          PR ADMINISTRACAO                
+11450 54.300000 VICOSA                                            MG ADMINISTRACAO                
+224341 54.300000 VICOSA                                            MG ADMINISTRACAO                
+251057 54.300000 VICOSA                                            MG ADMINISTRACAO                
+340438 54.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+255793 54.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+65744 54.500000 BRASILIA                                          DF ADMINISTRACAO                
+386574 54.500000 PARNAIBA                                          PI ADMINISTRACAO                
+209461 54.500000 VICOSA                                            MG ADMINISTRACAO                
+267396 54.500000 LONDRINA                                          PR ADMINISTRACAO                
+464997 54.500000 LONDRINA                                          PR ADMINISTRACAO                
+16047 54.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+256471 54.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+443742 54.800000 BRASILIA                                          DF ADMINISTRACAO                
+228543 54.800000 BRASILIA                                          DF ADMINISTRACAO                
+163934 54.800000 BRASILIA                                          DF ADMINISTRACAO                
+291453 54.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+387819 54.800000 MANAUS                                            AM ADMINISTRACAO                
+401904 54.800000 VICOSA                                            MG ADMINISTRACAO                
+388701 54.800000 VICOSA                                            MG ADMINISTRACAO                
+379843 54.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+369726 55.000000 BRASILIA                                          DF ADMINISTRACAO                
+22147 55.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+400218 55.000000 VICOSA                                            MG ADMINISTRACAO                
+372167 55.000000 CURITIBA                                          PR ADMINISTRACAO                
+306088 55.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+335967 55.300000 BRASILIA                                          DF ADMINISTRACAO                
+45496 55.300000 VICOSA                                            MG ADMINISTRACAO                
+457319 55.300000 LONDRINA                                          PR ADMINISTRACAO                
+374342 55.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+88839 55.500000 BRASILIA                                          DF ADMINISTRACAO                
+196197 55.500000 BRASILIA                                          DF ADMINISTRACAO                
+444331 55.500000 BRASILIA                                          DF ADMINISTRACAO                
+259302 55.500000 VICOSA                                            MG ADMINISTRACAO                
+11372 55.500000 LONDRINA                                          PR ADMINISTRACAO                
+273070 55.500000 LONDRINA                                          PR ADMINISTRACAO                
+456679 55.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+386413 55.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+60648 55.800000 BRASILIA                                          DF ADMINISTRACAO                
+228618 55.800000 MANAUS                                            AM ADMINISTRACAO                
+47218 55.800000 MANAUS                                            AM ADMINISTRACAO                
+2934 55.800000 PARNAIBA                                          PI ADMINISTRACAO                
+4194 55.800000 VICOSA                                            MG ADMINISTRACAO                
+385026 55.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+298783 55.800000 CURITIBA                                          PR ADMINISTRACAO                
+369241 56.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+45171 56.000000 TERESINA                                          PI ADMINISTRACAO                
+246816 56.000000 VICOSA                                            MG ADMINISTRACAO                
+289862 56.000000 VICOSA                                            MG ADMINISTRACAO                
+271291 56.000000 LONDRINA                                          PR ADMINISTRACAO                
+284402 56.000000 LONDRINA                                          PR ADMINISTRACAO                
+15820 56.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+72731 56.300000 BRASILIA                                          DF ADMINISTRACAO                
+193803 56.300000 MANAUS                                            AM ADMINISTRACAO                
+233101 56.300000 VICOSA                                            MG ADMINISTRACAO                
+19346 56.300000 VICOSA                                            MG ADMINISTRACAO                
+294443 56.300000 LONDRINA                                          PR ADMINISTRACAO                
+258502 56.300000 LONDRINA                                          PR ADMINISTRACAO                
+171898 56.300000 LONDRINA                                          PR ADMINISTRACAO                
+370976 56.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+85670 56.500000 MANAUS                                            AM ADMINISTRACAO                
+311591 56.800000 BRASILIA                                          DF ADMINISTRACAO                
+337653 56.800000 BRASILIA                                          DF ADMINISTRACAO                
+10942 56.800000 BRASILIA                                          DF ADMINISTRACAO                
+168351 56.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+22724 56.800000 LONDRINA                                          PR ADMINISTRACAO                
+30272 56.800000 LONDRINA                                          PR ADMINISTRACAO                
+302587 56.800000 CURITIBA                                          PR ADMINISTRACAO                
+191878 57.000000 BRASILIA                                          DF ADMINISTRACAO                
+448374 57.000000 BRASILIA                                          DF ADMINISTRACAO                
+384724 57.000000 BRASILIA                                          DF ADMINISTRACAO                
+210559 57.000000 TERESINA                                          PI ADMINISTRACAO                
+384104 57.000000 VICOSA                                            MG ADMINISTRACAO                
+191157 57.000000 LONDRINA                                          PR ADMINISTRACAO                
+265302 57.000000 LONDRINA                                          PR ADMINISTRACAO                
+37778 57.300000 CUIABA                                            MT ADMINISTRACAO                
+255680 57.300000 BRASILIA                                          DF ADMINISTRACAO                
+108171 57.300000 MANAUS                                            AM ADMINISTRACAO                
+203779 57.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+392635 57.500000 BRASILIA                                          DF ADMINISTRACAO                
+317807 57.500000 BRASILIA                                          DF ADMINISTRACAO                
+307860 57.500000 MANAUS                                            AM ADMINISTRACAO                
+105072 57.500000 VICOSA                                            MG ADMINISTRACAO                
+129163 57.500000 LONDRINA                                          PR ADMINISTRACAO                
+46627 57.500000 LONDRINA                                          PR ADMINISTRACAO                
+426064 57.800000 CUIABA                                            MT ADMINISTRACAO                
+13977 57.800000 PARNAIBA                                          PI ADMINISTRACAO                
+64305 57.800000 LONDRINA                                          PR ADMINISTRACAO                
+131218 58.000000 BRASILIA                                          DF ADMINISTRACAO                
+131227 58.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+433353 58.300000 BRASILIA                                          DF ADMINISTRACAO                
+347810 58.300000 LONDRINA                                          PR ADMINISTRACAO                
+59605 58.300000 LONDRINA                                          PR ADMINISTRACAO                
+339678 58.300000 LONDRINA                                          PR ADMINISTRACAO                
+153829 58.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+444743 58.300000 CURITIBA                                          PR ADMINISTRACAO                
+441443 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+100312 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+286772 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+309584 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+68791 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+428679 58.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+173481 58.500000 VICOSA                                            MG ADMINISTRACAO                
+182292 58.500000 VICOSA                                            MG ADMINISTRACAO                
+381184 58.500000 LONDRINA                                          PR ADMINISTRACAO                
+359807 58.500000 LONDRINA                                          PR ADMINISTRACAO                
+210867 58.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+354405 58.800000 CUIABA                                            MT ADMINISTRACAO                
+453200 58.800000 BRASILIA                                          DF ADMINISTRACAO                
+5659 58.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+12753 58.800000 MANAUS                                            AM ADMINISTRACAO                
+367656 58.800000 MANAUS                                            AM ADMINISTRACAO                
+381429 58.800000 VICOSA                                            MG ADMINISTRACAO                
+51336 58.800000 VICOSA                                            MG ADMINISTRACAO                
+114641 58.800000 VICOSA                                            MG ADMINISTRACAO                
+256727 58.800000 LONDRINA                                          PR ADMINISTRACAO                
+206581 58.800000 LONDRINA                                          PR ADMINISTRACAO                
+24438 58.800000 LONDRINA                                          PR ADMINISTRACAO                
+200441 59.000000 MANAUS                                            AM ADMINISTRACAO                
+299622 59.000000 VICOSA                                            MG ADMINISTRACAO                
+415741 59.300000 BRASILIA                                          DF ADMINISTRACAO                
+96889 59.300000 VICOSA                                            MG ADMINISTRACAO                
+7008 59.300000 LONDRINA                                          PR ADMINISTRACAO                
+52319 59.300000 CURITIBA                                          PR ADMINISTRACAO                
+452191 59.500000 BRASILIA                                          DF ADMINISTRACAO                
+184524 59.500000 MANAUS                                            AM ADMINISTRACAO                
+219126 59.500000 MANAUS                                            AM ADMINISTRACAO                
+214421 59.500000 VICOSA                                            MG ADMINISTRACAO                
+262744 59.500000 VICOSA                                            MG ADMINISTRACAO                
+175921 59.800000 BRASILIA                                          DF ADMINISTRACAO                
+124494 59.800000 BRASILIA                                          DF ADMINISTRACAO                
+346552 59.800000 MANAUS                                            AM ADMINISTRACAO                
+179989 59.800000 VICOSA                                            MG ADMINISTRACAO                
+163641 59.800000 LONDRINA                                          PR ADMINISTRACAO                
+376528 59.800000 LONDRINA                                          PR ADMINISTRACAO                
+84187 59.800000 CURITIBA                                          PR ADMINISTRACAO                
+409928 60.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+139669 60.000000 BRASILIA                                          DF ADMINISTRACAO                
+164685 60.000000 BRASILIA                                          DF ADMINISTRACAO                
+355732 60.000000 TERESINA                                          PI ADMINISTRACAO                
+222027 60.000000 VICOSA                                            MG ADMINISTRACAO                
+106751 60.000000 VICOSA                                            MG ADMINISTRACAO                
+37021 60.000000 LONDRINA                                          PR ADMINISTRACAO                
+149220 60.300000 BRASILIA                                          DF ADMINISTRACAO                
+315733 60.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+224240 60.300000 MANAUS                                            AM ADMINISTRACAO                
+327045 60.300000 MANAUS                                            AM ADMINISTRACAO                
+187111 60.300000 VICOSA                                            MG ADMINISTRACAO                
+195137 60.300000 LONDRINA                                          PR ADMINISTRACAO                
+221570 60.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+281116 60.500000 BRASILIA                                          DF ADMINISTRACAO                
+469266 60.500000 BRASILIA                                          DF ADMINISTRACAO                
+60631 60.500000 VICOSA                                            MG ADMINISTRACAO                
+76327 60.500000 VICOSA                                            MG ADMINISTRACAO                
+226760 60.500000 LONDRINA                                          PR ADMINISTRACAO                
+72808 60.800000 BRASILIA                                          DF ADMINISTRACAO                
+367644 60.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+21110 60.800000 MANAUS                                            AM ADMINISTRACAO                
+9709 60.800000 LONDRINA                                          PR ADMINISTRACAO                
+436352 60.800000 CURITIBA                                          PR ADMINISTRACAO                
+147344 61.000000 MANAUS                                            AM ADMINISTRACAO                
+459925 61.000000 MANAUS                                            AM ADMINISTRACAO                
+144242 61.000000 VICOSA                                            MG ADMINISTRACAO                
+272718 61.000000 VICOSA                                            MG ADMINISTRACAO                
+451403 61.000000 LONDRINA                                          PR ADMINISTRACAO                
+429859 61.000000 LONDRINA                                          PR ADMINISTRACAO                
+124947 61.300000 BRASILIA                                          DF ADMINISTRACAO                
+212501 61.300000 BRASILIA                                          DF ADMINISTRACAO                
+24213 61.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+408831 61.300000 PARNAIBA                                          PI ADMINISTRACAO                
+352409 61.300000 TERESINA                                          PI ADMINISTRACAO                
+212488 61.300000 VICOSA                                            MG ADMINISTRACAO                
+90902 61.300000 LONDRINA                                          PR ADMINISTRACAO                
+405280 61.300000 LONDRINA                                          PR ADMINISTRACAO                
+300538 61.300000 CURITIBA                                          PR ADMINISTRACAO                
+202266 61.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+58361 61.500000 BRASILIA                                          DF ADMINISTRACAO                
+354067 61.500000 MANAUS                                            AM ADMINISTRACAO                
+367133 61.500000 VICOSA                                            MG ADMINISTRACAO                
+168228 61.800000 MANAUS                                            AM ADMINISTRACAO                
+215769 61.800000 VICOSA                                            MG ADMINISTRACAO                
+425270 61.800000 VICOSA                                            MG ADMINISTRACAO                
+204803 61.800000 LONDRINA                                          PR ADMINISTRACAO                
+454475 61.800000 LONDRINA                                          PR ADMINISTRACAO                
+275900 61.800000 LONDRINA                                          PR ADMINISTRACAO                
+430923 61.800000 LONDRINA                                          PR ADMINISTRACAO                
+348614 61.800000 CURITIBA                                          PR ADMINISTRACAO                
+52638 62.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+108933 62.000000 VICOSA                                            MG ADMINISTRACAO                
+283649 62.000000 LONDRINA                                          PR ADMINISTRACAO                
+268678 62.300000 BRASILIA                                          DF ADMINISTRACAO                
+346047 62.300000 BRASILIA                                          DF ADMINISTRACAO                
+229115 62.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+382868 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+234043 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+173538 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+285465 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+251361 62.500000 MANAUS                                            AM ADMINISTRACAO                
+80507 62.500000 TERESINA                                          PI ADMINISTRACAO                
+78706 62.500000 LONDRINA                                          PR ADMINISTRACAO                
+283295 62.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+47497 62.800000 BRASILIA                                          DF ADMINISTRACAO                
+428336 62.800000 BRASILIA                                          DF ADMINISTRACAO                
+18874 62.800000 MANAUS                                            AM ADMINISTRACAO                
+96765 62.800000 LONDRINA                                          PR ADMINISTRACAO                
+25193 63.000000 BRASILIA                                          DF ADMINISTRACAO                
+298201 63.000000 LONDRINA                                          PR ADMINISTRACAO                
+375826 63.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+382871 63.300000 BRASILIA                                          DF ADMINISTRACAO                
+112768 63.300000 LONDRINA                                          PR ADMINISTRACAO                
+433602 63.500000 BRASILIA                                          DF ADMINISTRACAO                
+325545 63.500000 BRASILIA                                          DF ADMINISTRACAO                
+265994 63.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+166169 63.500000 LONDRINA                                          PR ADMINISTRACAO                
+278537 63.800000 BRASILIA                                          DF ADMINISTRACAO                
+159825 63.800000 MANAUS                                            AM ADMINISTRACAO                
+395287 63.800000 MANAUS                                            AM ADMINISTRACAO                
+347661 63.800000 LONDRINA                                          PR ADMINISTRACAO                
+132834 64.000000 VICOSA                                            MG ADMINISTRACAO                
+407932 64.000000 LONDRINA                                          PR ADMINISTRACAO                
+360165 64.300000 BRASILIA                                          DF ADMINISTRACAO                
+26638 64.500000 BRASILIA                                          DF ADMINISTRACAO                
+81689 64.500000 BRASILIA                                          DF ADMINISTRACAO                
+266889 64.500000 BRASILIA                                          DF ADMINISTRACAO                
+47978 64.800000 BRASILIA                                          DF ADMINISTRACAO                
+78289 64.800000 VICOSA                                            MG ADMINISTRACAO                
+464169 64.800000 LONDRINA                                          PR ADMINISTRACAO                
+359793 64.800000 LONDRINA                                          PR ADMINISTRACAO                
+435753 65.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+130458 65.000000 LONDRINA                                          PR ADMINISTRACAO                
+219990 65.000000 LONDRINA                                          PR ADMINISTRACAO                
+150205 65.300000 BRASILIA                                          DF ADMINISTRACAO                
+188515 65.300000 LONDRINA                                          PR ADMINISTRACAO                
+408321 65.500000 MANAUS                                            AM ADMINISTRACAO                
+112194 65.500000 VICOSA                                            MG ADMINISTRACAO                
+333852 65.500000 LONDRINA                                          PR ADMINISTRACAO                
+221890 65.800000 BRASILIA                                          DF ADMINISTRACAO                
+267147 65.800000 BRASILIA                                          DF ADMINISTRACAO                
+202039 65.800000 LONDRINA                                          PR ADMINISTRACAO                
+134399 66.000000 PARNAIBA                                          PI ADMINISTRACAO                
+255664 66.000000 TERESINA                                          PI ADMINISTRACAO                
+70951 66.300000 BRASILIA                                          DF ADMINISTRACAO                
+150517 66.300000 BRASILIA                                          DF ADMINISTRACAO                
+301840 66.300000 LONDRINA                                          PR ADMINISTRACAO                
+168156 66.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+394101 66.800000 BRASILIA                                          DF ADMINISTRACAO                
+339589 66.800000 BRASILIA                                          DF ADMINISTRACAO                
+138277 66.800000 LONDRINA                                          PR ADMINISTRACAO                
+101991 67.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+86358 67.300000 BRASILIA                                          DF ADMINISTRACAO                
+401505 67.300000 BRASILIA                                          DF ADMINISTRACAO                
+122665 67.300000 LONDRINA                                          PR ADMINISTRACAO                
+3861 68.000000 BRASILIA                                          DF ADMINISTRACAO                
+195746 68.000000 MANAUS                                            AM ADMINISTRACAO                
+280259 68.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+40975 68.300000 BRASILIA                                          DF ADMINISTRACAO                
+197975 68.300000 MANAUS                                            AM ADMINISTRACAO                
+292061 68.300000 LONDRINA                                          PR ADMINISTRACAO                
+421168 68.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+114415 68.800000 TERESINA                                          PI ADMINISTRACAO                
+464932 68.800000 VICOSA                                            MG ADMINISTRACAO                
+273715 68.800000 CURITIBA                                          PR ADMINISTRACAO                
+46771 68.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+109120 69.000000 BRASILIA                                          DF ADMINISTRACAO                
+102393 69.300000 CUIABA                                            MT ADMINISTRACAO                
+447253 69.300000 BRASILIA                                          DF ADMINISTRACAO                
+345170 69.300000 BRASILIA                                          DF ADMINISTRACAO                
+82456 69.300000 LONDRINA                                          PR ADMINISTRACAO                
+241228 69.500000 BRASILIA                                          DF ADMINISTRACAO                
+336096 69.500000 BRASILIA                                          DF ADMINISTRACAO                
+198918 69.800000 BRASILIA                                          DF ADMINISTRACAO                
+223710 69.800000 BRASILIA                                          DF ADMINISTRACAO                
+51080 69.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+454736 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+166187 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+230931 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+152828 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+416897 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+213829 70.300000 BRASILIA                                          DF ADMINISTRACAO                
+15294 70.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+463527 71.500000 BRASILIA                                          DF ADMINISTRACAO                
+209858 71.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+369658 72.000000 BRASILIA                                          DF ADMINISTRACAO                
+400008 72.300000 CUIABA                                            MT ADMINISTRACAO                
+21798 72.300000 BRASILIA                                          DF ADMINISTRACAO                
+460650 72.500000 BRASILIA                                          DF ADMINISTRACAO                
+310850 72.800000 BRASILIA                                          DF ADMINISTRACAO                
+130673 73.300000 BRASILIA                                          DF ADMINISTRACAO                
+254349 73.500000 BRASILIA                                          DF ADMINISTRACAO                
+101432 73.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+417697 74.800000 CURITIBA                                          PR ADMINISTRACAO                
+240915 76.800000 BRASILIA                                          DF ADMINISTRACAO                
+277132 76.800000 BRASILIA                                          DF ADMINISTRACAO                
+12279 78.300000 LONDRINA                                          PR ADMINISTRACAO                
+276929 79.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+82780 84.300000 LONDRINA                                          PR ADMINISTRACAO                

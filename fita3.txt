@@ -1,0 +1,60 @@
+65996 0.000000 AGUA BOA                                          MT ADMINISTRACAO                
+362081 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+423855 16.300000 CUIABA                                            MT ADMINISTRACAO                
+66198 18.800000 CUIABA                                            MT ADMINISTRACAO                
+35798 20.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+121505 24.500000 CUIABA                                            MT ADMINISTRACAO                
+224450 27.500000 CUIABA                                            MT ADMINISTRACAO                
+21887 31.300000 CUIABA                                            MT ADMINISTRACAO                
+58175 37.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+3393 38.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+454483 40.500000 CUIABA                                            MT ADMINISTRACAO                
+209822 45.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+10357 46.500000 CUIABA                                            MT ADMINISTRACAO                
+406263 47.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+207334 48.800000 CUIABA                                            MT ADMINISTRACAO                
+301802 50.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+88312 51.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+210550 53.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+369241 56.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+202266 61.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+165788 0.000000 MANAUS                                            AM ADMINISTRACAO                
+352323 23.500000 MANAUS                                            AM ADMINISTRACAO                
+312745 24.800000 MANAUS                                            AM ADMINISTRACAO                
+126136 25.000000 MANAUS                                            AM ADMINISTRACAO                
+233406 31.500000 MANAUS                                            AM ADMINISTRACAO                
+403081 31.800000 MANAUS                                            AM ADMINISTRACAO                
+122455 34.500000 MANAUS                                            AM ADMINISTRACAO                
+153723 36.000000 MANAUS                                            AM ADMINISTRACAO                
+50848 36.300000 MANAUS                                            AM ADMINISTRACAO                
+139918 40.300000 MANAUS                                            AM ADMINISTRACAO                
+381653 40.500000 MANAUS                                            AM ADMINISTRACAO                
+186893 42.300000 MANAUS                                            AM ADMINISTRACAO                
+69926 43.300000 MANAUS                                            AM ADMINISTRACAO                
+169983 47.000000 MANAUS                                            AM ADMINISTRACAO                
+400170 47.300000 MANAUS                                            AM ADMINISTRACAO                
+200441 59.000000 MANAUS                                            AM ADMINISTRACAO                
+21110 60.800000 MANAUS                                            AM ADMINISTRACAO                
+354067 61.500000 MANAUS                                            AM ADMINISTRACAO                
+168228 61.800000 MANAUS                                            AM ADMINISTRACAO                
+197975 68.300000 MANAUS                                            AM ADMINISTRACAO                
+351965 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+49198 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+140465 17.500000 LONDRINA                                          PR ADMINISTRACAO                
+421422 32.000000 LONDRINA                                          PR ADMINISTRACAO                
+422254 41.800000 LONDRINA                                          PR ADMINISTRACAO                
+360424 41.800000 LONDRINA                                          PR ADMINISTRACAO                
+141989 45.000000 LONDRINA                                          PR ADMINISTRACAO                
+175131 48.000000 LONDRINA                                          PR ADMINISTRACAO                
+206712 50.500000 LONDRINA                                          PR ADMINISTRACAO                
+198972 52.500000 LONDRINA                                          PR ADMINISTRACAO                
+339678 58.300000 LONDRINA                                          PR ADMINISTRACAO                
+359807 58.500000 LONDRINA                                          PR ADMINISTRACAO                
+376528 59.800000 LONDRINA                                          PR ADMINISTRACAO                
+405280 61.300000 LONDRINA                                          PR ADMINISTRACAO                
+430923 61.800000 LONDRINA                                          PR ADMINISTRACAO                
+112768 63.300000 LONDRINA                                          PR ADMINISTRACAO                
+359793 64.800000 LONDRINA                                          PR ADMINISTRACAO                
+219990 65.000000 LONDRINA                                          PR ADMINISTRACAO                
+122665 67.300000 LONDRINA                                          PR ADMINISTRACAO                
+421168 68.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                

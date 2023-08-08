@@ -15,4 +15,13 @@ typedef struct{
     FILE* fita[MEMORIAMAX]; //vetor de ponteiro de arquivos
 }Fitas;
 
+typedef struct{
+    int transf_leitura;
+    int transf_escrita;
+    int compara;
+    double tempo;
+}Analise;
+
+
+
 #endif

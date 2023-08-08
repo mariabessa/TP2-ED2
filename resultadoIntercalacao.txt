@@ -1,0 +1,6000 @@
+Inscrição: 170838
+Nota: 0.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 313201
+Nota: 0.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 300056
+Nota: 0.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 319299
+Nota: 0.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 65996
+Nota: 0.00
+Estado: MT
+Cidade: AGUA BOA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 362081
+Nota: 0.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 183699
+Nota: 0.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 57202
+Nota: 0.00
+Estado: MT
+Cidade: AGUA BOA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 301503
+Nota: 0.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 210080
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 268715
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 450981
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 17250
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 169350
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 85432
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 397177
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 119390
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 203084
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 250589
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 95662
+Nota: 0.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 445958
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 243219
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 456165
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 34800
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 26451
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 109386
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 230537
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 417534
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 116081
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 461082
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 316162
+Nota: 0.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 115074
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 85413
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 324555
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 462658
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 84008
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 200146
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 165788
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 273019
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 340639
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 464249
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 368431
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 283081
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 233795
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 322422
+Nota: 0.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 74556
+Nota: 0.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 158000
+Nota: 0.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 318273
+Nota: 0.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 354669
+Nota: 0.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 153042
+Nota: 0.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 395218
+Nota: 0.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 49454
+Nota: 0.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 414859
+Nota: 0.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 304747
+Nota: 0.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 213197
+Nota: 0.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 107705
+Nota: 0.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 453786
+Nota: 0.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 350210
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 52017
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 76367
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 3916
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 94462
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 348940
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 209168
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 214669
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 99721
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 337849
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 91130
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 24986
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 440868
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 89539
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 296012
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 290808
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 332468
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 94490
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 392432
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 430397
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 351965
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 49198
+Nota: 0.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 29001
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 444554
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 210753
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 184508
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 106091
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 468267
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 221936
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 466064
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 435515
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 103160
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 235866
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 71684
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 219212
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 195989
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 326182
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 57324
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 92849
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 231014
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 226231
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 219879
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 113716
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 111657
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 48163
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 313078
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 425888
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 92372
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 181742
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 447123
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 179919
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 71366
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 5885
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 289304
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 134115
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 265237
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 162993
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 119835
+Nota: 0.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 42668
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 205218
+Nota: 0.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 401313
+Nota: 10.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 119746
+Nota: 12.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 220132
+Nota: 14.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 76729
+Nota: 14.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 221150
+Nota: 15.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 369324
+Nota: 15.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 423855
+Nota: 16.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 329987
+Nota: 16.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 433866
+Nota: 16.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 170558
+Nota: 17.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 94374
+Nota: 17.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 273076
+Nota: 17.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 273968
+Nota: 17.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 140465
+Nota: 17.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 111954
+Nota: 17.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 293831
+Nota: 18.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 418828
+Nota: 18.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 291665
+Nota: 18.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 66198
+Nota: 18.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 107236
+Nota: 18.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 105583
+Nota: 18.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 417884
+Nota: 18.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 35798
+Nota: 20.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 259213
+Nota: 20.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 207373
+Nota: 20.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 463262
+Nota: 20.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 217201
+Nota: 20.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 386583
+Nota: 20.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 295148
+Nota: 20.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 173550
+Nota: 20.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 112505
+Nota: 21.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 253139
+Nota: 21.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 457807
+Nota: 21.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 149115
+Nota: 21.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 327968
+Nota: 21.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 84823
+Nota: 21.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 357755
+Nota: 21.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 58525
+Nota: 21.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 30824
+Nota: 21.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 23133
+Nota: 22.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 238292
+Nota: 22.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 305837
+Nota: 22.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 84421
+Nota: 22.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 63641
+Nota: 22.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 239866
+Nota: 22.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 335581
+Nota: 22.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 107733
+Nota: 22.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 29920
+Nota: 22.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 387585
+Nota: 22.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 232317
+Nota: 23.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 356952
+Nota: 23.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 86323
+Nota: 23.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 352323
+Nota: 23.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 325691
+Nota: 23.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 312111
+Nota: 23.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 216194
+Nota: 23.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 336015
+Nota: 24.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 63830
+Nota: 24.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 156344
+Nota: 24.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 121505
+Nota: 24.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 124597
+Nota: 24.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 56650
+Nota: 24.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 266061
+Nota: 24.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 157560
+Nota: 24.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 312745
+Nota: 24.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 116493
+Nota: 25.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 126136
+Nota: 25.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 292670
+Nota: 25.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 97052
+Nota: 25.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 301105
+Nota: 25.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 289433
+Nota: 25.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 248417
+Nota: 26.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 384614
+Nota: 26.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 143639
+Nota: 26.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 446905
+Nota: 26.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 268784
+Nota: 26.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 327058
+Nota: 27.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 130949
+Nota: 27.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 380532
+Nota: 27.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 34535
+Nota: 27.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 224450
+Nota: 27.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 226563
+Nota: 27.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 25999
+Nota: 27.50
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 80915
+Nota: 27.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 348112
+Nota: 27.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 429917
+Nota: 27.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 113812
+Nota: 28.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 411299
+Nota: 28.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 234756
+Nota: 28.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 140865
+Nota: 28.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 205242
+Nota: 28.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 227988
+Nota: 28.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 105494
+Nota: 29.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 82340
+Nota: 29.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 337846
+Nota: 29.50
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 171020
+Nota: 29.50
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 378258
+Nota: 29.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 415432
+Nota: 29.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 182746
+Nota: 30.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 155589
+Nota: 30.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 187784
+Nota: 30.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 71325
+Nota: 30.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 71811
+Nota: 30.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 133721
+Nota: 30.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 350655
+Nota: 31.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 413253
+Nota: 31.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 351682
+Nota: 31.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 167390
+Nota: 31.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 330044
+Nota: 31.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 226720
+Nota: 31.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 21887
+Nota: 31.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 66569
+Nota: 31.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 80301
+Nota: 31.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 106233
+Nota: 31.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 387342
+Nota: 31.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 233406
+Nota: 31.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 13553
+Nota: 31.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 200707
+Nota: 31.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 85344
+Nota: 31.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 92076
+Nota: 31.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 403081
+Nota: 31.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 4921
+Nota: 31.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 149018
+Nota: 32.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 32997
+Nota: 32.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 295848
+Nota: 32.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 392820
+Nota: 32.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 109676
+Nota: 32.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 361018
+Nota: 32.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 421422
+Nota: 32.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 123883
+Nota: 32.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 170034
+Nota: 32.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 103618
+Nota: 32.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 361724
+Nota: 32.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 27801
+Nota: 32.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 382884
+Nota: 32.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 275596
+Nota: 32.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 112564
+Nota: 32.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 352413
+Nota: 32.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 441323
+Nota: 32.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 301704
+Nota: 32.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 170937
+Nota: 32.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 278666
+Nota: 33.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 219113
+Nota: 33.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 102238
+Nota: 33.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 254576
+Nota: 33.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 108114
+Nota: 33.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 340592
+Nota: 33.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 47472
+Nota: 33.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 373477
+Nota: 33.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 178216
+Nota: 33.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 149603
+Nota: 33.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 471379
+Nota: 33.50
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 135750
+Nota: 33.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 28009
+Nota: 33.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 451115
+Nota: 33.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 435142
+Nota: 33.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 36392
+Nota: 34.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 301300
+Nota: 34.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 249816
+Nota: 34.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 130373
+Nota: 34.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 110356
+Nota: 34.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 189407
+Nota: 34.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 239419
+Nota: 34.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 280726
+Nota: 34.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 136049
+Nota: 34.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 88300
+Nota: 34.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 297053
+Nota: 34.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 399531
+Nota: 34.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 122455
+Nota: 34.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 45273
+Nota: 34.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 257474
+Nota: 34.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 37379
+Nota: 34.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 365545
+Nota: 34.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 19284
+Nota: 35.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 396530
+Nota: 35.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 85358
+Nota: 35.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 241850
+Nota: 35.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 269932
+Nota: 35.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 398672
+Nota: 35.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 463955
+Nota: 35.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 177525
+Nota: 35.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 360367
+Nota: 35.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 459126
+Nota: 35.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 137887
+Nota: 35.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 61892
+Nota: 35.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 61544
+Nota: 35.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 25188
+Nota: 35.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 8586
+Nota: 35.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 439069
+Nota: 35.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 227159
+Nota: 36.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 153723
+Nota: 36.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 228864
+Nota: 36.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 48161
+Nota: 36.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 201952
+Nota: 36.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 446373
+Nota: 36.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 50848
+Nota: 36.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 364281
+Nota: 36.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 221291
+Nota: 36.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 59131
+Nota: 36.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 261845
+Nota: 36.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 419670
+Nota: 36.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 253930
+Nota: 36.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 331437
+Nota: 37.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 217886
+Nota: 37.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 71577
+Nota: 37.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 332160
+Nota: 37.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 54048
+Nota: 37.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 446102
+Nota: 37.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 228222
+Nota: 37.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 453379
+Nota: 37.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 159186
+Nota: 37.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 129347
+Nota: 37.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 274212
+Nota: 37.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 58175
+Nota: 37.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 350881
+Nota: 37.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 208266
+Nota: 37.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 416795
+Nota: 37.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 335198
+Nota: 37.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 314025
+Nota: 37.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 346592
+Nota: 38.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 5213
+Nota: 38.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 329608
+Nota: 38.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 422625
+Nota: 38.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 34050
+Nota: 38.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 114422
+Nota: 38.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 114544
+Nota: 38.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 214331
+Nota: 38.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 3393
+Nota: 38.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 424746
+Nota: 38.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 36075
+Nota: 38.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 200258
+Nota: 38.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 376771
+Nota: 38.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 186581
+Nota: 39.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 73822
+Nota: 39.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 444180
+Nota: 39.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 419751
+Nota: 39.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 279415
+Nota: 39.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 21433
+Nota: 39.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 251426
+Nota: 39.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 333364
+Nota: 39.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 461815
+Nota: 39.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 200147
+Nota: 39.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 69224
+Nota: 39.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 412481
+Nota: 39.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 113285
+Nota: 39.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 314937
+Nota: 39.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 219119
+Nota: 39.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 383153
+Nota: 40.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 89359
+Nota: 40.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 52105
+Nota: 40.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 368930
+Nota: 40.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 213784
+Nota: 40.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 378110
+Nota: 40.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 368900
+Nota: 40.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 294906
+Nota: 40.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 139918
+Nota: 40.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 100680
+Nota: 40.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 146301
+Nota: 40.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 454483
+Nota: 40.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 402740
+Nota: 40.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 381653
+Nota: 40.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 167379
+Nota: 40.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 381088
+Nota: 40.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 284633
+Nota: 40.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 123938
+Nota: 40.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 368312
+Nota: 40.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 129275
+Nota: 40.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 368345
+Nota: 40.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 98672
+Nota: 40.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 338433
+Nota: 41.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 288612
+Nota: 41.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 195348
+Nota: 41.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 18642
+Nota: 41.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 69108
+Nota: 41.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 213978
+Nota: 41.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 380734
+Nota: 41.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 415030
+Nota: 41.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 394362
+Nota: 41.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 225632
+Nota: 41.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 458248
+Nota: 41.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 1370
+Nota: 41.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 382513
+Nota: 41.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 12236
+Nota: 41.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 422254
+Nota: 41.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 360424
+Nota: 41.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 205606
+Nota: 41.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 142590
+Nota: 42.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 125100
+Nota: 42.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 468659
+Nota: 42.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 84990
+Nota: 42.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 14281
+Nota: 42.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 224687
+Nota: 42.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 162633
+Nota: 42.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 186893
+Nota: 42.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 305445
+Nota: 42.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 455789
+Nota: 42.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 455270
+Nota: 42.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 324897
+Nota: 42.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 386649
+Nota: 42.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 130170
+Nota: 42.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 1486
+Nota: 42.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 452861
+Nota: 42.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 457856
+Nota: 42.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 53055
+Nota: 42.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 231764
+Nota: 42.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 438411
+Nota: 42.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 22952
+Nota: 43.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 452420
+Nota: 43.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 21239
+Nota: 43.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 321747
+Nota: 43.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 240348
+Nota: 43.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 69926
+Nota: 43.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 280953
+Nota: 43.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 17999
+Nota: 43.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 140708
+Nota: 43.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 280714
+Nota: 43.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 5317
+Nota: 43.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 59573
+Nota: 43.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 30293
+Nota: 43.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 311853
+Nota: 43.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 417510
+Nota: 43.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 351991
+Nota: 43.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 59542
+Nota: 43.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 304832
+Nota: 44.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 326232
+Nota: 44.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 317012
+Nota: 44.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 53475
+Nota: 44.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 123309
+Nota: 44.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 412790
+Nota: 44.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 163079
+Nota: 44.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 66354
+Nota: 44.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 44810
+Nota: 44.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 109012
+Nota: 44.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 24106
+Nota: 44.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 41603
+Nota: 44.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 57637
+Nota: 44.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 306030
+Nota: 44.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 470990
+Nota: 44.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 286995
+Nota: 44.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 384572
+Nota: 44.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 401893
+Nota: 44.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 321961
+Nota: 44.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 443242
+Nota: 44.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 209822
+Nota: 45.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 348074
+Nota: 45.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 283054
+Nota: 45.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 317024
+Nota: 45.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 26256
+Nota: 45.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 470311
+Nota: 45.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 141989
+Nota: 45.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 229720
+Nota: 45.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 195190
+Nota: 45.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 346924
+Nota: 45.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 410910
+Nota: 45.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 133850
+Nota: 45.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 49605
+Nota: 45.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 305092
+Nota: 45.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 422511
+Nota: 45.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 366962
+Nota: 45.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 312544
+Nota: 45.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 127326
+Nota: 45.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 324740
+Nota: 45.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 391346
+Nota: 45.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 192376
+Nota: 45.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 34474
+Nota: 45.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 303348
+Nota: 45.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 107535
+Nota: 45.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 412715
+Nota: 46.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 61117
+Nota: 46.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 213434
+Nota: 46.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 336507
+Nota: 46.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 3517
+Nota: 46.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 437129
+Nota: 46.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 128972
+Nota: 46.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 110621
+Nota: 46.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 48121
+Nota: 46.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 325485
+Nota: 46.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 144718
+Nota: 46.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 115010
+Nota: 46.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 92172
+Nota: 46.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 233237
+Nota: 46.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 314555
+Nota: 46.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 93169
+Nota: 46.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 10357
+Nota: 46.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 77617
+Nota: 46.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 402164
+Nota: 46.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 432962
+Nota: 46.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 17482
+Nota: 46.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 306648
+Nota: 46.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 67407
+Nota: 46.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 293078
+Nota: 46.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 49975
+Nota: 46.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 36078
+Nota: 46.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 16318
+Nota: 46.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 307220
+Nota: 46.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 267657
+Nota: 46.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 463351
+Nota: 46.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 317654
+Nota: 46.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 295222
+Nota: 47.00
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 205101
+Nota: 47.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 311610
+Nota: 47.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 169983
+Nota: 47.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 219752
+Nota: 47.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 323220
+Nota: 47.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 103825
+Nota: 47.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 78506
+Nota: 47.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 3196
+Nota: 47.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 400170
+Nota: 47.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 99183
+Nota: 47.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 255215
+Nota: 47.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 266521
+Nota: 47.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 406263
+Nota: 47.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 368815
+Nota: 47.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 286286
+Nota: 47.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 304166
+Nota: 47.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 145396
+Nota: 47.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 73527
+Nota: 47.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 7814
+Nota: 47.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 249107
+Nota: 47.50
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 99378
+Nota: 47.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 228957
+Nota: 47.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 214949
+Nota: 47.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 257538
+Nota: 47.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 469270
+Nota: 47.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 212231
+Nota: 47.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 355310
+Nota: 47.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 112781
+Nota: 47.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 106676
+Nota: 47.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 458650
+Nota: 47.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 285318
+Nota: 47.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 194344
+Nota: 47.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 113892
+Nota: 47.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 278763
+Nota: 48.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 409557
+Nota: 48.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 169792
+Nota: 48.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 190369
+Nota: 48.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 324583
+Nota: 48.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 183839
+Nota: 48.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 410926
+Nota: 48.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 175131
+Nota: 48.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 347068
+Nota: 48.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 220216
+Nota: 48.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 344756
+Nota: 48.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 253017
+Nota: 48.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 2744
+Nota: 48.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 8834
+Nota: 48.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 353811
+Nota: 48.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 413185
+Nota: 48.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 166314
+Nota: 48.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 231457
+Nota: 48.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 400505
+Nota: 48.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 214523
+Nota: 48.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 9997
+Nota: 48.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 207334
+Nota: 48.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 427229
+Nota: 48.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 151750
+Nota: 49.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 453078
+Nota: 49.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 300790
+Nota: 49.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 349603
+Nota: 49.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 52569
+Nota: 49.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 340424
+Nota: 49.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 190351
+Nota: 49.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 218999
+Nota: 49.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 447781
+Nota: 49.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 32247
+Nota: 49.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 94945
+Nota: 49.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 304505
+Nota: 49.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 119830
+Nota: 49.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 161889
+Nota: 49.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 142597
+Nota: 49.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 5627
+Nota: 49.50
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 271484
+Nota: 49.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 329668
+Nota: 49.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 21971
+Nota: 49.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 118340
+Nota: 49.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 374893
+Nota: 49.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 301802
+Nota: 50.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 144473
+Nota: 50.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 354122
+Nota: 50.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 114282
+Nota: 50.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 398699
+Nota: 50.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 425187
+Nota: 50.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 229079
+Nota: 50.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 258469
+Nota: 50.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 337759
+Nota: 50.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 115970
+Nota: 50.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 51603
+Nota: 50.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 81658
+Nota: 50.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 142408
+Nota: 50.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 164535
+Nota: 50.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 406521
+Nota: 50.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 259826
+Nota: 50.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 121373
+Nota: 50.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 343392
+Nota: 50.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 206712
+Nota: 50.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 352040
+Nota: 50.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 337091
+Nota: 50.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 12390
+Nota: 50.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 134103
+Nota: 50.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 22350
+Nota: 51.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 65840
+Nota: 51.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 180621
+Nota: 51.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 112212
+Nota: 51.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 276824
+Nota: 51.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 205746
+Nota: 51.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 12427
+Nota: 51.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 81136
+Nota: 51.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 33559
+Nota: 51.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 356030
+Nota: 51.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 317055
+Nota: 51.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 294257
+Nota: 51.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 2717
+Nota: 51.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 349722
+Nota: 51.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 88312
+Nota: 51.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 216227
+Nota: 51.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 162535
+Nota: 51.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 167833
+Nota: 51.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 280009
+Nota: 51.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 29095
+Nota: 51.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 97761
+Nota: 51.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 118668
+Nota: 51.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 190046
+Nota: 51.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 152355
+Nota: 51.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 142837
+Nota: 52.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 55231
+Nota: 52.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 425803
+Nota: 52.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 29891
+Nota: 52.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 97378
+Nota: 52.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 414264
+Nota: 52.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 313733
+Nota: 52.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 414861
+Nota: 52.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 355968
+Nota: 52.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 140962
+Nota: 52.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 295744
+Nota: 52.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 185865
+Nota: 52.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 467354
+Nota: 52.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 379237
+Nota: 52.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 225218
+Nota: 52.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 454208
+Nota: 52.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 90529
+Nota: 52.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 198972
+Nota: 52.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 308793
+Nota: 52.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 130911
+Nota: 52.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 317407
+Nota: 52.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 202929
+Nota: 52.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 210550
+Nota: 53.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 135818
+Nota: 53.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 118861
+Nota: 53.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 5553
+Nota: 53.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 183899
+Nota: 53.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 363557
+Nota: 53.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 319117
+Nota: 53.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 62175
+Nota: 53.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 113382
+Nota: 53.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 116536
+Nota: 53.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 145535
+Nota: 53.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 350312
+Nota: 53.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 273426
+Nota: 53.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 37256
+Nota: 53.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 73691
+Nota: 53.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 370724
+Nota: 53.50
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 427785
+Nota: 53.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 96183
+Nota: 53.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 339451
+Nota: 53.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 27309
+Nota: 53.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 354373
+Nota: 53.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 258966
+Nota: 53.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 11327
+Nota: 53.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 276000
+Nota: 53.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 266463
+Nota: 53.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 374514
+Nota: 53.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 454137
+Nota: 53.50
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 120699
+Nota: 53.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 440588
+Nota: 53.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 355550
+Nota: 53.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 167165
+Nota: 53.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 366462
+Nota: 53.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 251484
+Nota: 53.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 169912
+Nota: 53.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 252985
+Nota: 53.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 223395
+Nota: 53.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 432322
+Nota: 53.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 161694
+Nota: 53.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 164090
+Nota: 54.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 374759
+Nota: 54.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 65453
+Nota: 54.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 421729
+Nota: 54.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 339404
+Nota: 54.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 11450
+Nota: 54.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 224341
+Nota: 54.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 251057
+Nota: 54.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 340438
+Nota: 54.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 255793
+Nota: 54.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 65744
+Nota: 54.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 386574
+Nota: 54.50
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 209461
+Nota: 54.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 267396
+Nota: 54.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 464997
+Nota: 54.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 16047
+Nota: 54.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 256471
+Nota: 54.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 443742
+Nota: 54.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 228543
+Nota: 54.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 163934
+Nota: 54.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 291453
+Nota: 54.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 387819
+Nota: 54.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 401904
+Nota: 54.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 388701
+Nota: 54.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 379843
+Nota: 54.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 369726
+Nota: 55.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 22147
+Nota: 55.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 400218
+Nota: 55.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 372167
+Nota: 55.00
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 306088
+Nota: 55.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 335967
+Nota: 55.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 45496
+Nota: 55.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 457319
+Nota: 55.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 374342
+Nota: 55.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 88839
+Nota: 55.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 196197
+Nota: 55.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 444331
+Nota: 55.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 259302
+Nota: 55.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 11372
+Nota: 55.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 273070
+Nota: 55.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 456679
+Nota: 55.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 386413
+Nota: 55.80
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 60648
+Nota: 55.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 228618
+Nota: 55.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 47218
+Nota: 55.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 2934
+Nota: 55.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 4194
+Nota: 55.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 385026
+Nota: 55.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 298783
+Nota: 55.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 369241
+Nota: 56.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 45171
+Nota: 56.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 246816
+Nota: 56.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 289862
+Nota: 56.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 271291
+Nota: 56.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 284402
+Nota: 56.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 15820
+Nota: 56.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 72731
+Nota: 56.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 193803
+Nota: 56.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 233101
+Nota: 56.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 19346
+Nota: 56.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 294443
+Nota: 56.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 258502
+Nota: 56.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 171898
+Nota: 56.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 370976
+Nota: 56.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 85670
+Nota: 56.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 311591
+Nota: 56.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 337653
+Nota: 56.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 10942
+Nota: 56.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 168351
+Nota: 56.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 22724
+Nota: 56.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 30272
+Nota: 56.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 302587
+Nota: 56.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 191878
+Nota: 57.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 448374
+Nota: 57.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 384724
+Nota: 57.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 210559
+Nota: 57.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 384104
+Nota: 57.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 191157
+Nota: 57.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 265302
+Nota: 57.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 37778
+Nota: 57.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 255680
+Nota: 57.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 108171
+Nota: 57.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 203779
+Nota: 57.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 392635
+Nota: 57.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 317807
+Nota: 57.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 307860
+Nota: 57.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 105072
+Nota: 57.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 129163
+Nota: 57.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 46627
+Nota: 57.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 426064
+Nota: 57.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 13977
+Nota: 57.80
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 64305
+Nota: 57.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 131218
+Nota: 58.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 131227
+Nota: 58.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 433353
+Nota: 58.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 347810
+Nota: 58.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 59605
+Nota: 58.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 339678
+Nota: 58.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 153829
+Nota: 58.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 444743
+Nota: 58.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 441443
+Nota: 58.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 100312
+Nota: 58.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 286772
+Nota: 58.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 309584
+Nota: 58.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 68791
+Nota: 58.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 428679
+Nota: 58.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 173481
+Nota: 58.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 182292
+Nota: 58.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 381184
+Nota: 58.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 359807
+Nota: 58.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 210867
+Nota: 58.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 354405
+Nota: 58.80
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 453200
+Nota: 58.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 5659
+Nota: 58.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 12753
+Nota: 58.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 367656
+Nota: 58.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 381429
+Nota: 58.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 51336
+Nota: 58.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 114641
+Nota: 58.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 256727
+Nota: 58.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 206581
+Nota: 58.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 24438
+Nota: 58.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 200441
+Nota: 59.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 299622
+Nota: 59.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 415741
+Nota: 59.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 96889
+Nota: 59.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 7008
+Nota: 59.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 52319
+Nota: 59.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 452191
+Nota: 59.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 184524
+Nota: 59.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 219126
+Nota: 59.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 214421
+Nota: 59.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 262744
+Nota: 59.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 175921
+Nota: 59.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 124494
+Nota: 59.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 346552
+Nota: 59.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 179989
+Nota: 59.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 163641
+Nota: 59.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 376528
+Nota: 59.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 84187
+Nota: 59.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 409928
+Nota: 60.00
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 139669
+Nota: 60.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 164685
+Nota: 60.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 355732
+Nota: 60.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 222027
+Nota: 60.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 106751
+Nota: 60.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 37021
+Nota: 60.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 149220
+Nota: 60.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 315733
+Nota: 60.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 224240
+Nota: 60.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 327045
+Nota: 60.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 187111
+Nota: 60.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 195137
+Nota: 60.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 221570
+Nota: 60.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 281116
+Nota: 60.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 469266
+Nota: 60.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 60631
+Nota: 60.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 76327
+Nota: 60.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 226760
+Nota: 60.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 72808
+Nota: 60.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 367644
+Nota: 60.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 21110
+Nota: 60.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 9709
+Nota: 60.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 436352
+Nota: 60.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 147344
+Nota: 61.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 459925
+Nota: 61.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 144242
+Nota: 61.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 272718
+Nota: 61.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 451403
+Nota: 61.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 429859
+Nota: 61.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 124947
+Nota: 61.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 212501
+Nota: 61.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 24213
+Nota: 61.30
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 408831
+Nota: 61.30
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 352409
+Nota: 61.30
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 212488
+Nota: 61.30
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 90902
+Nota: 61.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 405280
+Nota: 61.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 300538
+Nota: 61.30
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 202266
+Nota: 61.50
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 58361
+Nota: 61.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 354067
+Nota: 61.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 367133
+Nota: 61.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 168228
+Nota: 61.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 215769
+Nota: 61.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 425270
+Nota: 61.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 204803
+Nota: 61.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 454475
+Nota: 61.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 275900
+Nota: 61.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 430923
+Nota: 61.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 348614
+Nota: 61.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 52638
+Nota: 62.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 108933
+Nota: 62.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 283649
+Nota: 62.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 268678
+Nota: 62.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 346047
+Nota: 62.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 229115
+Nota: 62.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 382868
+Nota: 62.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 234043
+Nota: 62.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 173538
+Nota: 62.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 285465
+Nota: 62.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 251361
+Nota: 62.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 80507
+Nota: 62.50
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 78706
+Nota: 62.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 283295
+Nota: 62.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 47497
+Nota: 62.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 428336
+Nota: 62.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 18874
+Nota: 62.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 96765
+Nota: 62.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 25193
+Nota: 63.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 298201
+Nota: 63.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 375826
+Nota: 63.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 382871
+Nota: 63.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 112768
+Nota: 63.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 433602
+Nota: 63.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 325545
+Nota: 63.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 265994
+Nota: 63.50
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 166169
+Nota: 63.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 278537
+Nota: 63.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 159825
+Nota: 63.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 395287
+Nota: 63.80
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 347661
+Nota: 63.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 132834
+Nota: 64.00
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 407932
+Nota: 64.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 360165
+Nota: 64.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 26638
+Nota: 64.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 81689
+Nota: 64.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 266889
+Nota: 64.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 47978
+Nota: 64.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 78289
+Nota: 64.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 464169
+Nota: 64.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 359793
+Nota: 64.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 435753
+Nota: 65.00
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 130458
+Nota: 65.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 219990
+Nota: 65.00
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 150205
+Nota: 65.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 188515
+Nota: 65.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 408321
+Nota: 65.50
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 112194
+Nota: 65.50
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 333852
+Nota: 65.50
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 221890
+Nota: 65.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 267147
+Nota: 65.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 202039
+Nota: 65.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 134399
+Nota: 66.00
+Estado: PI
+Cidade: PARNAIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 255664
+Nota: 66.00
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 70951
+Nota: 66.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 150517
+Nota: 66.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 301840
+Nota: 66.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 168156
+Nota: 66.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 394101
+Nota: 66.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 339589
+Nota: 66.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 138277
+Nota: 66.80
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 101991
+Nota: 67.30
+Estado: MT
+Cidade: PRIMAVERA DO LESTE                               
+Curso: ADMINISTRACAO                
+
+Inscrição: 86358
+Nota: 67.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 401505
+Nota: 67.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 122665
+Nota: 67.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 3861
+Nota: 68.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 195746
+Nota: 68.00
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 280259
+Nota: 68.00
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 40975
+Nota: 68.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 197975
+Nota: 68.30
+Estado: AM
+Cidade: MANAUS                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 292061
+Nota: 68.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 421168
+Nota: 68.30
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 114415
+Nota: 68.80
+Estado: PI
+Cidade: TERESINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 464932
+Nota: 68.80
+Estado: MG
+Cidade: VICOSA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 273715
+Nota: 68.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 46771
+Nota: 68.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 109120
+Nota: 69.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 102393
+Nota: 69.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 447253
+Nota: 69.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 345170
+Nota: 69.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 82456
+Nota: 69.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 241228
+Nota: 69.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 336096
+Nota: 69.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 198918
+Nota: 69.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 223710
+Nota: 69.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 51080
+Nota: 69.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 454736
+Nota: 70.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 166187
+Nota: 70.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 230931
+Nota: 70.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 152828
+Nota: 70.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 416897
+Nota: 70.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 213829
+Nota: 70.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 15294
+Nota: 70.80
+Estado: SE
+Cidade: SAO CRISTOVAO                                    
+Curso: ADMINISTRACAO                
+
+Inscrição: 463527
+Nota: 71.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 209858
+Nota: 71.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 369658
+Nota: 72.00
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 400008
+Nota: 72.30
+Estado: MT
+Cidade: CUIABA                                           
+Curso: ADMINISTRACAO                
+
+Inscrição: 21798
+Nota: 72.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 460650
+Nota: 72.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 310850
+Nota: 72.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 130673
+Nota: 73.30
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 254349
+Nota: 73.50
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 101432
+Nota: 73.80
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 417697
+Nota: 74.80
+Estado: PR
+Cidade: CURITIBA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 240915
+Nota: 76.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 277132
+Nota: 76.80
+Estado: DF
+Cidade: BRASILIA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 12279
+Nota: 78.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+
+Inscrição: 276929
+Nota: 79.50
+Estado: PR
+Cidade: SAO JOSE DOS PINHAIS                             
+Curso: ADMINISTRACAO                
+
+Inscrição: 82780
+Nota: 84.30
+Estado: PR
+Cidade: LONDRINA                                         
+Curso: ADMINISTRACAO                
+

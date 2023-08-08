@@ -1,0 +1,400 @@
+170838 0.000000 CUIABA                                            MT ADMINISTRACAO                
+313201 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+300056 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+319299 0.000000 CUIABA                                            MT ADMINISTRACAO                
+65996 0.000000 AGUA BOA                                          MT ADMINISTRACAO                
+362081 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+183699 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+57202 0.000000 AGUA BOA                                          MT ADMINISTRACAO                
+301503 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+210080 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+268715 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+450981 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+17250 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+169350 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+85432 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+397177 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+119390 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+203084 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+250589 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+95662 0.000000 BRASILIA                                          DF ADMINISTRACAO                
+445958 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+243219 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+456165 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+34800 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+26451 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+109386 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+230537 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+417534 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+116081 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+461082 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+316162 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+115074 0.000000 MANAUS                                            AM ADMINISTRACAO                
+85413 0.000000 MANAUS                                            AM ADMINISTRACAO                
+324555 0.000000 MANAUS                                            AM ADMINISTRACAO                
+462658 0.000000 MANAUS                                            AM ADMINISTRACAO                
+401313 10.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+119746 12.500000 BRASILIA                                          DF ADMINISTRACAO                
+220132 14.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+423855 16.300000 CUIABA                                            MT ADMINISTRACAO                
+170558 17.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+111954 17.800000 CUIABA                                            MT ADMINISTRACAO                
+293831 18.300000 MANAUS                                            AM ADMINISTRACAO                
+418828 18.300000 MANAUS                                            AM ADMINISTRACAO                
+66198 18.800000 CUIABA                                            MT ADMINISTRACAO                
+107236 18.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+105583 18.800000 BRASILIA                                          DF ADMINISTRACAO                
+417884 18.800000 MANAUS                                            AM ADMINISTRACAO                
+35798 20.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+259213 20.000000 BRASILIA                                          DF ADMINISTRACAO                
+207373 20.000000 MANAUS                                            AM ADMINISTRACAO                
+463262 20.000000 MANAUS                                            AM ADMINISTRACAO                
+217201 20.000000 MANAUS                                            AM ADMINISTRACAO                
+295148 20.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+173550 20.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+253139 21.300000 BRASILIA                                          DF ADMINISTRACAO                
+457807 21.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+23133 22.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+238292 22.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+84421 22.500000 BRASILIA                                          DF ADMINISTRACAO                
+63641 22.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+239866 22.500000 MANAUS                                            AM ADMINISTRACAO                
+335581 22.500000 MANAUS                                            AM ADMINISTRACAO                
+356952 23.500000 MANAUS                                            AM ADMINISTRACAO                
+216194 23.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+336015 24.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+63830 24.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+121505 24.500000 CUIABA                                            MT ADMINISTRACAO                
+124597 24.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+266061 24.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+116493 25.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+301105 25.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+34535 27.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+224450 27.500000 CUIABA                                            MT ADMINISTRACAO                
+113812 28.000000 CUIABA                                            MT ADMINISTRACAO                
+411299 28.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+234756 28.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+82340 29.300000 MANAUS                                            AM ADMINISTRACAO                
+182746 30.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+155589 30.000000 BRASILIA                                          DF ADMINISTRACAO                
+71325 30.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+350655 31.000000 CUIABA                                            MT ADMINISTRACAO                
+21887 31.300000 CUIABA                                            MT ADMINISTRACAO                
+66569 31.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+80301 31.300000 MANAUS                                            AM ADMINISTRACAO                
+106233 31.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+387342 31.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+85344 31.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+92076 31.800000 BRASILIA                                          DF ADMINISTRACAO                
+149018 32.000000 BRASILIA                                          DF ADMINISTRACAO                
+32997 32.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+123883 32.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+27801 32.500000 MANAUS                                            AM ADMINISTRACAO                
+112564 32.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+278666 33.000000 BRASILIA                                          DF ADMINISTRACAO                
+254576 33.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+373477 33.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+178216 33.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+36392 34.000000 MANAUS                                            AM ADMINISTRACAO                
+239419 34.300000 CUIABA                                            MT ADMINISTRACAO                
+280726 34.300000 BRASILIA                                          DF ADMINISTRACAO                
+136049 34.300000 MANAUS                                            AM ADMINISTRACAO                
+37379 34.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+19284 35.000000 BRASILIA                                          DF ADMINISTRACAO                
+396530 35.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+269932 35.300000 CUIABA                                            MT ADMINISTRACAO                
+459126 35.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+25188 35.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+446373 36.300000 BRASILIA                                          DF ADMINISTRACAO                
+364281 36.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+221291 36.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+59131 36.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+261845 36.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+419670 36.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+253930 36.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+331437 37.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+217886 37.000000 BRASILIA                                          DF ADMINISTRACAO                
+71577 37.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+228222 37.300000 BRASILIA                                          DF ADMINISTRACAO                
+453379 37.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+159186 37.300000 MANAUS                                            AM ADMINISTRACAO                
+129347 37.300000 MANAUS                                            AM ADMINISTRACAO                
+274212 37.300000 MANAUS                                            AM ADMINISTRACAO                
+58175 37.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+350881 37.500000 BRASILIA                                          DF ADMINISTRACAO                
+346592 38.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+5213 38.000000 BRASILIA                                          DF ADMINISTRACAO                
+329608 38.000000 BRASILIA                                          DF ADMINISTRACAO                
+422625 38.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+34050 38.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+114422 38.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+114544 38.500000 MANAUS                                            AM ADMINISTRACAO                
+3393 38.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+424746 38.800000 BRASILIA                                          DF ADMINISTRACAO                
+36075 38.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+200258 38.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+186581 39.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+21433 39.500000 BRASILIA                                          DF ADMINISTRACAO                
+412481 39.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+113285 39.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+314937 39.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+213784 40.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+378110 40.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+368900 40.300000 MANAUS                                            AM ADMINISTRACAO                
+454483 40.500000 CUIABA                                            MT ADMINISTRACAO                
+402740 40.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+123938 40.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+338433 41.000000 BRASILIA                                          DF ADMINISTRACAO                
+213978 41.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+394362 41.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+382513 41.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+142590 42.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+125100 42.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+162633 42.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+386649 42.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+130170 42.500000 BRASILIA                                          DF ADMINISTRACAO                
+452861 42.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+22952 43.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+452420 43.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+21239 43.000000 MANAUS                                            AM ADMINISTRACAO                
+280714 43.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+5317 43.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+59573 43.500000 CUIABA                                            MT ADMINISTRACAO                
+30293 43.500000 MANAUS                                            AM ADMINISTRACAO                
+351991 43.800000 CUIABA                                            MT ADMINISTRACAO                
+59542 43.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+304832 44.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+412790 44.300000 CUIABA                                            MT ADMINISTRACAO                
+163079 44.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+66354 44.300000 BRASILIA                                          DF ADMINISTRACAO                
+41603 44.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+384572 44.800000 BRASILIA                                          DF ADMINISTRACAO                
+209822 45.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+348074 45.000000 BRASILIA                                          DF ADMINISTRACAO                
+283054 45.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+195190 45.300000 BRASILIA                                          DF ADMINISTRACAO                
+346924 45.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+305092 45.500000 BRASILIA                                          DF ADMINISTRACAO                
+422511 45.500000 MANAUS                                            AM ADMINISTRACAO                
+412715 46.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+61117 46.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+213434 46.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+336507 46.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+3517 46.000000 MANAUS                                            AM ADMINISTRACAO                
+115010 46.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+10357 46.500000 CUIABA                                            MT ADMINISTRACAO                
+77617 46.500000 BRASILIA                                          DF ADMINISTRACAO                
+402164 46.500000 MANAUS                                            AM ADMINISTRACAO                
+306648 46.800000 BRASILIA                                          DF ADMINISTRACAO                
+67407 46.800000 BRASILIA                                          DF ADMINISTRACAO                
+293078 46.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+49975 46.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+36078 46.800000 MANAUS                                            AM ADMINISTRACAO                
+295222 47.000000 CUIABA                                            MT ADMINISTRACAO                
+205101 47.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+311610 47.000000 MANAUS                                            AM ADMINISTRACAO                
+78506 47.300000 MANAUS                                            AM ADMINISTRACAO                
+406263 47.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+368815 47.500000 BRASILIA                                          DF ADMINISTRACAO                
+286286 47.500000 BRASILIA                                          DF ADMINISTRACAO                
+304166 47.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+145396 47.500000 MANAUS                                            AM ADMINISTRACAO                
+73527 47.500000 MANAUS                                            AM ADMINISTRACAO                
+212231 47.800000 BRASILIA                                          DF ADMINISTRACAO                
+355310 47.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+112781 47.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+278763 48.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+409557 48.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+169792 48.000000 BRASILIA                                          DF ADMINISTRACAO                
+190369 48.000000 BRASILIA                                          DF ADMINISTRACAO                
+324583 48.000000 BRASILIA                                          DF ADMINISTRACAO                
+347068 48.300000 BRASILIA                                          DF ADMINISTRACAO                
+220216 48.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+2744 48.500000 BRASILIA                                          DF ADMINISTRACAO                
+8834 48.500000 BRASILIA                                          DF ADMINISTRACAO                
+9997 48.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+207334 48.800000 CUIABA                                            MT ADMINISTRACAO                
+151750 49.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+453078 49.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+300790 49.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+340424 49.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+190351 49.300000 BRASILIA                                          DF ADMINISTRACAO                
+119830 49.500000 BRASILIA                                          DF ADMINISTRACAO                
+161889 49.500000 BRASILIA                                          DF ADMINISTRACAO                
+329668 49.800000 BRASILIA                                          DF ADMINISTRACAO                
+301802 50.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+144473 50.000000 BRASILIA                                          DF ADMINISTRACAO                
+354122 50.000000 BRASILIA                                          DF ADMINISTRACAO                
+114282 50.000000 BRASILIA                                          DF ADMINISTRACAO                
+258469 50.300000 BRASILIA                                          DF ADMINISTRACAO                
+337759 50.300000 BRASILIA                                          DF ADMINISTRACAO                
+164535 50.500000 BRASILIA                                          DF ADMINISTRACAO                
+406521 50.500000 BRASILIA                                          DF ADMINISTRACAO                
+352040 50.800000 BRASILIA                                          DF ADMINISTRACAO                
+337091 50.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+22350 51.000000 BRASILIA                                          DF ADMINISTRACAO                
+65840 51.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+112212 51.300000 BRASILIA                                          DF ADMINISTRACAO                
+276824 51.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+205746 51.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+33559 51.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+356030 51.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+317055 51.500000 MANAUS                                            AM ADMINISTRACAO                
+88312 51.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+216227 51.800000 BRASILIA                                          DF ADMINISTRACAO                
+162535 51.800000 BRASILIA                                          DF ADMINISTRACAO                
+167833 51.800000 MANAUS                                            AM ADMINISTRACAO                
+142837 52.000000 BRASILIA                                          DF ADMINISTRACAO                
+55231 52.000000 BRASILIA                                          DF ADMINISTRACAO                
+425803 52.000000 BRASILIA                                          DF ADMINISTRACAO                
+414861 52.300000 BRASILIA                                          DF ADMINISTRACAO                
+355968 52.300000 BRASILIA                                          DF ADMINISTRACAO                
+317407 52.800000 BRASILIA                                          DF ADMINISTRACAO                
+210550 53.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+135818 53.000000 BRASILIA                                          DF ADMINISTRACAO                
+118861 53.000000 MANAUS                                            AM ADMINISTRACAO                
+113382 53.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+116536 53.300000 MANAUS                                            AM ADMINISTRACAO                
+370724 53.500000 CUIABA                                            MT ADMINISTRACAO                
+427785 53.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+96183 53.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+339451 53.500000 MANAUS                                            AM ADMINISTRACAO                
+120699 53.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+440588 53.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+355550 53.800000 BRASILIA                                          DF ADMINISTRACAO                
+167165 53.800000 BRASILIA                                          DF ADMINISTRACAO                
+366462 53.800000 BRASILIA                                          DF ADMINISTRACAO                
+251484 53.800000 MANAUS                                            AM ADMINISTRACAO                
+164090 54.000000 BRASILIA                                          DF ADMINISTRACAO                
+65744 54.500000 BRASILIA                                          DF ADMINISTRACAO                
+443742 54.800000 BRASILIA                                          DF ADMINISTRACAO                
+228543 54.800000 BRASILIA                                          DF ADMINISTRACAO                
+163934 54.800000 BRASILIA                                          DF ADMINISTRACAO                
+291453 54.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+369726 55.000000 BRASILIA                                          DF ADMINISTRACAO                
+22147 55.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+306088 55.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+335967 55.300000 BRASILIA                                          DF ADMINISTRACAO                
+88839 55.500000 BRASILIA                                          DF ADMINISTRACAO                
+196197 55.500000 BRASILIA                                          DF ADMINISTRACAO                
+444331 55.500000 BRASILIA                                          DF ADMINISTRACAO                
+456679 55.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+386413 55.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+60648 55.800000 BRASILIA                                          DF ADMINISTRACAO                
+228618 55.800000 MANAUS                                            AM ADMINISTRACAO                
+47218 55.800000 MANAUS                                            AM ADMINISTRACAO                
+369241 56.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+72731 56.300000 BRASILIA                                          DF ADMINISTRACAO                
+193803 56.300000 MANAUS                                            AM ADMINISTRACAO                
+370976 56.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+311591 56.800000 BRASILIA                                          DF ADMINISTRACAO                
+337653 56.800000 BRASILIA                                          DF ADMINISTRACAO                
+10942 56.800000 BRASILIA                                          DF ADMINISTRACAO                
+168351 56.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+191878 57.000000 BRASILIA                                          DF ADMINISTRACAO                
+448374 57.000000 BRASILIA                                          DF ADMINISTRACAO                
+384724 57.000000 BRASILIA                                          DF ADMINISTRACAO                
+37778 57.300000 CUIABA                                            MT ADMINISTRACAO                
+255680 57.300000 BRASILIA                                          DF ADMINISTRACAO                
+203779 57.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+392635 57.500000 BRASILIA                                          DF ADMINISTRACAO                
+317807 57.500000 BRASILIA                                          DF ADMINISTRACAO                
+426064 57.800000 CUIABA                                            MT ADMINISTRACAO                
+131218 58.000000 BRASILIA                                          DF ADMINISTRACAO                
+131227 58.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+433353 58.300000 BRASILIA                                          DF ADMINISTRACAO                
+441443 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+100312 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+286772 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+309584 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+68791 58.500000 BRASILIA                                          DF ADMINISTRACAO                
+428679 58.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+354405 58.800000 CUIABA                                            MT ADMINISTRACAO                
+453200 58.800000 BRASILIA                                          DF ADMINISTRACAO                
+5659 58.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+12753 58.800000 MANAUS                                            AM ADMINISTRACAO                
+367656 58.800000 MANAUS                                            AM ADMINISTRACAO                
+415741 59.300000 BRASILIA                                          DF ADMINISTRACAO                
+452191 59.500000 BRASILIA                                          DF ADMINISTRACAO                
+184524 59.500000 MANAUS                                            AM ADMINISTRACAO                
+175921 59.800000 BRASILIA                                          DF ADMINISTRACAO                
+124494 59.800000 BRASILIA                                          DF ADMINISTRACAO                
+346552 59.800000 MANAUS                                            AM ADMINISTRACAO                
+409928 60.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+139669 60.000000 BRASILIA                                          DF ADMINISTRACAO                
+164685 60.000000 BRASILIA                                          DF ADMINISTRACAO                
+149220 60.300000 BRASILIA                                          DF ADMINISTRACAO                
+315733 60.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+224240 60.300000 MANAUS                                            AM ADMINISTRACAO                
+281116 60.500000 BRASILIA                                          DF ADMINISTRACAO                
+469266 60.500000 BRASILIA                                          DF ADMINISTRACAO                
+72808 60.800000 BRASILIA                                          DF ADMINISTRACAO                
+367644 60.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+147344 61.000000 MANAUS                                            AM ADMINISTRACAO                
+124947 61.300000 BRASILIA                                          DF ADMINISTRACAO                
+212501 61.300000 BRASILIA                                          DF ADMINISTRACAO                
+24213 61.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+202266 61.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+58361 61.500000 BRASILIA                                          DF ADMINISTRACAO                
+52638 62.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+268678 62.300000 BRASILIA                                          DF ADMINISTRACAO                
+346047 62.300000 BRASILIA                                          DF ADMINISTRACAO                
+382868 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+234043 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+173538 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+285465 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+251361 62.500000 MANAUS                                            AM ADMINISTRACAO                
+47497 62.800000 BRASILIA                                          DF ADMINISTRACAO                
+428336 62.800000 BRASILIA                                          DF ADMINISTRACAO                
+25193 63.000000 BRASILIA                                          DF ADMINISTRACAO                
+382871 63.300000 BRASILIA                                          DF ADMINISTRACAO                
+433602 63.500000 BRASILIA                                          DF ADMINISTRACAO                
+325545 63.500000 BRASILIA                                          DF ADMINISTRACAO                
+265994 63.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+278537 63.800000 BRASILIA                                          DF ADMINISTRACAO                
+159825 63.800000 MANAUS                                            AM ADMINISTRACAO                
+395287 63.800000 MANAUS                                            AM ADMINISTRACAO                
+360165 64.300000 BRASILIA                                          DF ADMINISTRACAO                
+26638 64.500000 BRASILIA                                          DF ADMINISTRACAO                
+81689 64.500000 BRASILIA                                          DF ADMINISTRACAO                
+266889 64.500000 BRASILIA                                          DF ADMINISTRACAO                
+47978 64.800000 BRASILIA                                          DF ADMINISTRACAO                
+435753 65.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+150205 65.300000 BRASILIA                                          DF ADMINISTRACAO                
+221890 65.800000 BRASILIA                                          DF ADMINISTRACAO                
+267147 65.800000 BRASILIA                                          DF ADMINISTRACAO                
+70951 66.300000 BRASILIA                                          DF ADMINISTRACAO                
+150517 66.300000 BRASILIA                                          DF ADMINISTRACAO                
+394101 66.800000 BRASILIA                                          DF ADMINISTRACAO                
+339589 66.800000 BRASILIA                                          DF ADMINISTRACAO                
+101991 67.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+86358 67.300000 BRASILIA                                          DF ADMINISTRACAO                
+401505 67.300000 BRASILIA                                          DF ADMINISTRACAO                
+3861 68.000000 BRASILIA                                          DF ADMINISTRACAO                
+40975 68.300000 BRASILIA                                          DF ADMINISTRACAO                
+109120 69.000000 BRASILIA                                          DF ADMINISTRACAO                
+102393 69.300000 CUIABA                                            MT ADMINISTRACAO                
+447253 69.300000 BRASILIA                                          DF ADMINISTRACAO                
+345170 69.300000 BRASILIA                                          DF ADMINISTRACAO                
+241228 69.500000 BRASILIA                                          DF ADMINISTRACAO                
+336096 69.500000 BRASILIA                                          DF ADMINISTRACAO                
+198918 69.800000 BRASILIA                                          DF ADMINISTRACAO                
+223710 69.800000 BRASILIA                                          DF ADMINISTRACAO                
+51080 69.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+454736 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+166187 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+230931 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+152828 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+416897 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+213829 70.300000 BRASILIA                                          DF ADMINISTRACAO                
+15294 70.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+463527 71.500000 BRASILIA                                          DF ADMINISTRACAO                
+369658 72.000000 BRASILIA                                          DF ADMINISTRACAO                
+400008 72.300000 CUIABA                                            MT ADMINISTRACAO                
+21798 72.300000 BRASILIA                                          DF ADMINISTRACAO                
+460650 72.500000 BRASILIA                                          DF ADMINISTRACAO                
+310850 72.800000 BRASILIA                                          DF ADMINISTRACAO                
+130673 73.300000 BRASILIA                                          DF ADMINISTRACAO                
+254349 73.500000 BRASILIA                                          DF ADMINISTRACAO                
+240915 76.800000 BRASILIA                                          DF ADMINISTRACAO                
+277132 76.800000 BRASILIA                                          DF ADMINISTRACAO                

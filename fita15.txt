@@ -1,0 +1,40 @@
+243219 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+456165 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+34800 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+401313 10.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+116493 25.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+453379 37.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+113285 39.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+213978 41.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+394362 41.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+452861 42.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+22952 43.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+304832 44.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+283054 45.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+355310 47.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+65840 51.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+427785 53.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+291453 54.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+168351 56.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+5659 58.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+435753 65.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+107705 0.000000 VICOSA                                            MG ADMINISTRACAO                
+453786 0.000000 VICOSA                                            MG ADMINISTRACAO                
+327058 27.000000 VICOSA                                            MG ADMINISTRACAO                
+189407 34.000000 VICOSA                                            MG ADMINISTRACAO                
+324897 42.300000 VICOSA                                            MG ADMINISTRACAO                
+53055 42.800000 VICOSA                                            MG ADMINISTRACAO                
+321961 44.800000 VICOSA                                            MG ADMINISTRACAO                
+233237 46.300000 VICOSA                                            MG ADMINISTRACAO                
+271484 49.500000 VICOSA                                            MG ADMINISTRACAO                
+12390 50.800000 VICOSA                                            MG ADMINISTRACAO                
+27309 53.500000 VICOSA                                            MG ADMINISTRACAO                
+251057 54.300000 VICOSA                                            MG ADMINISTRACAO                
+388701 54.800000 VICOSA                                            MG ADMINISTRACAO                
+45496 55.300000 VICOSA                                            MG ADMINISTRACAO                
+457319 55.300000 LONDRINA                                          PR ADMINISTRACAO                
+381184 58.500000 LONDRINA                                          PR ADMINISTRACAO                
+37021 60.000000 LONDRINA                                          PR ADMINISTRACAO                
+195137 60.300000 LONDRINA                                          PR ADMINISTRACAO                
+451403 61.000000 LONDRINA                                          PR ADMINISTRACAO                
+96765 62.800000 LONDRINA                                          PR ADMINISTRACAO                

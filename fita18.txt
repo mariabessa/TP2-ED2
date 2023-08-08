@@ -1,0 +1,40 @@
+316162 0.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+63641 22.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+266061 24.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+234756 28.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+459126 35.500000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+253930 36.800000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+378110 40.300000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+125100 42.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+452420 43.000000 SAO CRISTOVAO                                     SE ADMINISTRACAO                
+3517 46.000000 MANAUS                                            AM ADMINISTRACAO                
+402164 46.500000 MANAUS                                            AM ADMINISTRACAO                
+78506 47.300000 MANAUS                                            AM ADMINISTRACAO                
+145396 47.500000 MANAUS                                            AM ADMINISTRACAO                
+317055 51.500000 MANAUS                                            AM ADMINISTRACAO                
+167833 51.800000 MANAUS                                            AM ADMINISTRACAO                
+251484 53.800000 MANAUS                                            AM ADMINISTRACAO                
+193803 56.300000 MANAUS                                            AM ADMINISTRACAO                
+346552 59.800000 MANAUS                                            AM ADMINISTRACAO                
+251361 62.500000 MANAUS                                            AM ADMINISTRACAO                
+159825 63.800000 MANAUS                                            AM ADMINISTRACAO                
+348940 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+209168 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+214669 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+273968 17.500000 LONDRINA                                          PR ADMINISTRACAO                
+305837 22.000000 LONDRINA                                          PR ADMINISTRACAO                
+361724 32.300000 LONDRINA                                          PR ADMINISTRACAO                
+360367 35.300000 LONDRINA                                          PR ADMINISTRACAO                
+381088 40.500000 LONDRINA                                          PR ADMINISTRACAO                
+368345 40.800000 LONDRINA                                          PR ADMINISTRACAO                
+98672 40.800000 LONDRINA                                          PR ADMINISTRACAO                
+18642 41.000000 LONDRINA                                          PR ADMINISTRACAO                
+224687 42.000000 LONDRINA                                          PR ADMINISTRACAO                
+97378 52.000000 LONDRINA                                          PR ADMINISTRACAO                
+414264 52.000000 LONDRINA                                          PR ADMINISTRACAO                
+11372 55.500000 LONDRINA                                          PR ADMINISTRACAO                
+22724 56.800000 LONDRINA                                          PR ADMINISTRACAO                
+191157 57.000000 LONDRINA                                          PR ADMINISTRACAO                
+90902 61.300000 LONDRINA                                          PR ADMINISTRACAO                
+407932 64.000000 LONDRINA                                          PR ADMINISTRACAO                
+292061 68.300000 LONDRINA                                          PR ADMINISTRACAO                

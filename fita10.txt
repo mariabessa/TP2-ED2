@@ -1,0 +1,60 @@
+130170 42.500000 BRASILIA                                          DF ADMINISTRACAO                
+384572 44.800000 BRASILIA                                          DF ADMINISTRACAO                
+67407 46.800000 BRASILIA                                          DF ADMINISTRACAO                
+212231 47.800000 BRASILIA                                          DF ADMINISTRACAO                
+114282 50.000000 BRASILIA                                          DF ADMINISTRACAO                
+337759 50.300000 BRASILIA                                          DF ADMINISTRACAO                
+164535 50.500000 BRASILIA                                          DF ADMINISTRACAO                
+167165 53.800000 BRASILIA                                          DF ADMINISTRACAO                
+335967 55.300000 BRASILIA                                          DF ADMINISTRACAO                
+444331 55.500000 BRASILIA                                          DF ADMINISTRACAO                
+452191 59.500000 BRASILIA                                          DF ADMINISTRACAO                
+281116 60.500000 BRASILIA                                          DF ADMINISTRACAO                
+58361 61.500000 BRASILIA                                          DF ADMINISTRACAO                
+25193 63.000000 BRASILIA                                          DF ADMINISTRACAO                
+278537 63.800000 BRASILIA                                          DF ADMINISTRACAO                
+70951 66.300000 BRASILIA                                          DF ADMINISTRACAO                
+401505 67.300000 BRASILIA                                          DF ADMINISTRACAO                
+230931 70.000000 BRASILIA                                          DF ADMINISTRACAO                
+460650 72.500000 BRASILIA                                          DF ADMINISTRACAO                
+240915 76.800000 BRASILIA                                          DF ADMINISTRACAO                
+327968 21.300000 PARNAIBA                                          PI ADMINISTRACAO                
+248417 26.000000 PARNAIBA                                          PI ADMINISTRACAO                
+380532 27.300000 TERESINA                                          PI ADMINISTRACAO                
+25999 27.500000 PARNAIBA                                          PI ADMINISTRACAO                
+205242 28.500000 TERESINA                                          PI ADMINISTRACAO                
+337846 29.500000 PARNAIBA                                          PI ADMINISTRACAO                
+171020 29.500000 PARNAIBA                                          PI ADMINISTRACAO                
+415432 29.800000 PARNAIBA                                          PI ADMINISTRACAO                
+109676 32.000000 PARNAIBA                                          PI ADMINISTRACAO                
+47472 33.300000 PARNAIBA                                          PI ADMINISTRACAO                
+471379 33.500000 PARNAIBA                                          PI ADMINISTRACAO                
+335198 37.800000 PARNAIBA                                          PI ADMINISTRACAO                
+73822 39.000000 PARNAIBA                                          PI ADMINISTRACAO                
+84990 42.000000 PARNAIBA                                          PI ADMINISTRACAO                
+455789 42.300000 PARNAIBA                                          PI ADMINISTRACAO                
+323220 47.000000 PARNAIBA                                          PI ADMINISTRACAO                
+249107 47.500000 PARNAIBA                                          PI ADMINISTRACAO                
+458650 47.800000 PARNAIBA                                          PI ADMINISTRACAO                
+353811 48.500000 TERESINA                                          PI ADMINISTRACAO                
+467354 52.300000 VICOSA                                            MG ADMINISTRACAO                
+162993 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+119835 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+42668 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+205218 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+143639 26.300000 CURITIBA                                          PR ADMINISTRACAO                
+446905 26.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+140865 28.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+105494 29.000000 CURITIBA                                          PR ADMINISTRACAO                
+446102 37.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+438411 42.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+107535 45.800000 CURITIBA                                          PR ADMINISTRACAO                
+317654 46.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+214523 48.500000 CURITIBA                                          PR ADMINISTRACAO                
+349722 51.500000 CURITIBA                                          PR ADMINISTRACAO                
+298783 55.800000 CURITIBA                                          PR ADMINISTRACAO                
+444743 58.300000 CURITIBA                                          PR ADMINISTRACAO                
+168156 66.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+280259 68.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+46771 68.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+209858 71.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                

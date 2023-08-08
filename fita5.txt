@@ -1,0 +1,60 @@
+301503 0.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+182746 30.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+123883 32.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+254576 33.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+221291 36.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+59131 36.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+386649 42.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+213434 46.000000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+120699 53.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+440588 53.800000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+37778 57.300000 CUIABA                                            MT ADMINISTRACAO                
+203779 57.500000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+131227 58.300000 PRIMAVERA DO LESTE                                MT ADMINISTRACAO                
+124947 61.300000 BRASILIA                                          DF ADMINISTRACAO                
+382868 62.500000 BRASILIA                                          DF ADMINISTRACAO                
+47497 62.800000 BRASILIA                                          DF ADMINISTRACAO                
+150205 65.300000 BRASILIA                                          DF ADMINISTRACAO                
+394101 66.800000 BRASILIA                                          DF ADMINISTRACAO                
+86358 67.300000 BRASILIA                                          DF ADMINISTRACAO                
+213829 70.300000 BRASILIA                                          DF ADMINISTRACAO                
+368431 0.000000 MANAUS                                            AM ADMINISTRACAO                
+386583 20.000000 MANAUS                                            AM ADMINISTRACAO                
+84823 21.500000 MANAUS                                            AM ADMINISTRACAO                
+29920 22.500000 MANAUS                                            AM ADMINISTRACAO                
+340592 33.300000 MANAUS                                            AM ADMINISTRACAO                
+45273 34.500000 MANAUS                                            AM ADMINISTRACAO                
+61892 35.500000 MANAUS                                            AM ADMINISTRACAO                
+195348 41.000000 MANAUS                                            AM ADMINISTRACAO                
+468659 42.000000 MANAUS                                            AM ADMINISTRACAO                
+305445 42.300000 MANAUS                                            AM ADMINISTRACAO                
+1486 42.500000 MANAUS                                            AM ADMINISTRACAO                
+366962 45.500000 MANAUS                                            AM ADMINISTRACAO                
+312544 45.500000 MANAUS                                            AM ADMINISTRACAO                
+437129 46.000000 MANAUS                                            AM ADMINISTRACAO                
+128972 46.000000 MANAUS                                            AM ADMINISTRACAO                
+183839 48.000000 MANAUS                                            AM ADMINISTRACAO                
+145535 53.300000 MANAUS                                            AM ADMINISTRACAO                
+387819 54.800000 MANAUS                                            AM ADMINISTRACAO                
+108171 57.300000 MANAUS                                            AM ADMINISTRACAO                
+327045 60.300000 MANAUS                                            AM ADMINISTRACAO                
+466064 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+435515 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+103160 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+235866 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+71684 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+433866 16.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+289433 25.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+61544 35.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+48161 36.000000 CURITIBA                                          PR ADMINISTRACAO                
+231764 42.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+257538 47.500000 CURITIBA                                          PR ADMINISTRACAO                
+194344 47.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+190046 51.800000 CURITIBA                                          PR ADMINISTRACAO                
+308793 52.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+374514 53.500000 CURITIBA                                          PR ADMINISTRACAO                
+421729 54.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+385026 55.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+15820 56.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+348614 61.800000 CURITIBA                                          PR ADMINISTRACAO                
+229115 62.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                

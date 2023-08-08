@@ -3,14 +3,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#ifndef intercalaSub_h
-#define intercalaSub_h
 #include "Item.h"
+#include "intercalacao.h"
 
 typedef struct{
     Aluno aluno;
-    Bool marcado;
+    bool marcado;
 } TipoSub;
+
+int retornaMenorSub(TipoSub *);
+void iniciaIntercalacaoSub(FILE*, int, bool);
+void intercalaSub(Fitas , int , FILE *);
+void intercalaSaidaSub(Fitas, Fitas,int, int );
+void intercalaEntradaSub(Fitas , Fitas ,int , int );
+
+
 
 
 

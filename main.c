@@ -4,8 +4,9 @@
 #include <string.h>
 #include "quicksortExt.h"
 #include "intercalacao.h"
+#include "intercalaSub.h"
+#include "conversorFita.h"
 
-    
 int main(int argc, char **argv){
     if (argc!=3 && argc!=4){
         printf("Número de argumentos inválido. As entradas são: <método> <quantidade> <situação> [-P](opcional)\n");
@@ -15,7 +16,20 @@ int main(int argc, char **argv){
     int opcode = atoi(argv[1]);
     int quantidade = atoi(argv[2]);
     int situacao = atoi(argv[3]);
+    Analise analise;
     
+    for(int i = 1; i <= 40; i++){
+        char nomeFita[20];
+        snprintf(nomeFita, sizeof(nomeFita), "fita%d.bin", i);
+        converteFita(nomeFita, i);
+    }
+
+    //inicia analise
+    analise.transf_leitura=0;
+    analise.transf_escrita=0;
+    analise.tempo=0.0;
+    analise.compara=0;
+
     if(argc == 6 && strcmp(argv[5], "-p") == 0)
         ArgOpcional = true;
 
@@ -42,11 +56,21 @@ int main(int argc, char **argv){
     }
     //******************************  Intercalação balanceada de vários caminhos (2f fitas) com Seleção por Substituição ****************************** 
     else if(opcode == 2){
+        iniciaIntercalacaoSub(arquivo, quantidade, ArgOpcional);
     }
     //***********************************************************  QuickSort Externo *********************************************************** 
     else if (opcode == 3){
         quickSortInicia(quantidade, situacao);
     }
+
+    for(int i = 1; i <= 40; i++){
+        char nomeFita[20];
+        snprintf(nomeFita, sizeof(nomeFita), "fita%d.bin", i);
+        converteFita(nomeFita, i);
+    }
     fclose(arq);
+
+    //printando a análise
+    printf("\n\n ---------- ANÁLISE ----------\n Quantidade de transferências (escrita) = %d \n Quantidade de transferências (leitura) = %d \n Quantidade de comparações = %d \n Tempo de execução = %.2lf\n", analise.transf_escrita, analise.transf_leitura, analise.compara, analise.tempo);
     return 0;
 }

@@ -6,13 +6,13 @@ int main() {
     Aluno aluno;
 
     // Abrir o arquivo binário para leitura
-    arquivoBin = fopen("PROVAO.bin", "rb");
+    arquivoBin = fopen("resultadoIntercalacao.bin", "rb");
     if (arquivoBin == NULL) {
         printf("Erro ao abrir o arquivo binário.\n");
         return 1;
     }
     // Abrir o arquivo de texto para escrita
-    arquivoTxt = fopen("arqTeste.txt", "w");
+    arquivoTxt = fopen("resultadoIntercalacao.txt", "w");
     if (arquivoTxt == NULL) {
         printf("Erro ao abrir o arquivo de texto.\n");
         fclose(arquivoBin);
@@ -26,7 +26,6 @@ int main() {
         fprintf(arquivoTxt, "Estado: %s\n", aluno.estado);
         fprintf(arquivoTxt, "Cidade: %s\n", aluno.cidade);
         fprintf(arquivoTxt, "Curso: %s\n\n", aluno.curso);
-        printf("%ld %lf %s %s %s\n", aluno.inscricao, aluno.nota, aluno.cidade, aluno.estado, aluno.curso);
     }
 
     // Fechar os arquivos

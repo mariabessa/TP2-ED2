@@ -1,0 +1,200 @@
+296012 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+290808 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+332468 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+94490 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+392432 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+430397 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+351965 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+49198 0.000000 LONDRINA                                          PR ADMINISTRACAO                
+29001 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+444554 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+210753 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+184508 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+106091 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+468267 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+221936 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+466064 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+435515 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+103160 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+235866 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+71684 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+219212 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+195989 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+326182 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+57324 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+92849 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+231014 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+226231 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+219879 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+113716 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+111657 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+48163 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+313078 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+425888 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+92372 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+181742 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+447123 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+179919 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+71366 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+5885 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+289304 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+134115 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+265237 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+162993 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+119835 0.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+42668 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+205218 0.000000 CURITIBA                                          PR ADMINISTRACAO                
+369324 15.300000 CURITIBA                                          PR ADMINISTRACAO                
+433866 16.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+140465 17.500000 LONDRINA                                          PR ADMINISTRACAO                
+387585 22.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+312111 23.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+156344 24.300000 CURITIBA                                          PR ADMINISTRACAO                
+289433 25.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+143639 26.300000 CURITIBA                                          PR ADMINISTRACAO                
+446905 26.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+348112 27.800000 LONDRINA                                          PR ADMINISTRACAO                
+429917 27.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+140865 28.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+105494 29.000000 CURITIBA                                          PR ADMINISTRACAO                
+330044 31.000000 CURITIBA                                          PR ADMINISTRACAO                
+226720 31.000000 CURITIBA                                          PR ADMINISTRACAO                
+200707 31.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+421422 32.000000 LONDRINA                                          PR ADMINISTRACAO                
+275596 32.500000 LONDRINA                                          PR ADMINISTRACAO                
+257474 34.500000 LONDRINA                                          PR ADMINISTRACAO                
+241850 35.000000 LONDRINA                                          PR ADMINISTRACAO                
+61544 35.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+439069 35.800000 LONDRINA                                          PR ADMINISTRACAO                
+48161 36.000000 CURITIBA                                          PR ADMINISTRACAO                
+201952 36.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+446102 37.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+376771 38.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+279415 39.300000 CURITIBA                                          PR ADMINISTRACAO                
+200147 39.500000 LONDRINA                                          PR ADMINISTRACAO                
+69224 39.500000 CURITIBA                                          PR ADMINISTRACAO                
+219119 39.800000 CURITIBA                                          PR ADMINISTRACAO                
+100680 40.300000 CURITIBA                                          PR ADMINISTRACAO                
+146301 40.300000 CURITIBA                                          PR ADMINISTRACAO                
+69108 41.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+1370 41.500000 CURITIBA                                          PR ADMINISTRACAO                
+422254 41.800000 LONDRINA                                          PR ADMINISTRACAO                
+360424 41.800000 LONDRINA                                          PR ADMINISTRACAO                
+205606 41.800000 CURITIBA                                          PR ADMINISTRACAO                
+231764 42.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+438411 42.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+140708 43.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+53475 44.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+123309 44.000000 CURITIBA                                          PR ADMINISTRACAO                
+24106 44.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+470990 44.500000 LONDRINA                                          PR ADMINISTRACAO                
+286995 44.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+443242 44.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+141989 45.000000 LONDRINA                                          PR ADMINISTRACAO                
+229720 45.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+133850 45.300000 CURITIBA                                          PR ADMINISTRACAO                
+49605 45.300000 CURITIBA                                          PR ADMINISTRACAO                
+127326 45.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+192376 45.800000 LONDRINA                                          PR ADMINISTRACAO                
+34474 45.800000 CURITIBA                                          PR ADMINISTRACAO                
+303348 45.800000 CURITIBA                                          PR ADMINISTRACAO                
+107535 45.800000 CURITIBA                                          PR ADMINISTRACAO                
+144718 46.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+314555 46.300000 CURITIBA                                          PR ADMINISTRACAO                
+93169 46.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+432962 46.500000 LONDRINA                                          PR ADMINISTRACAO                
+17482 46.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+463351 46.800000 CURITIBA                                          PR ADMINISTRACAO                
+317654 46.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+103825 47.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+214949 47.500000 CURITIBA                                          PR ADMINISTRACAO                
+257538 47.500000 CURITIBA                                          PR ADMINISTRACAO                
+469270 47.500000 CURITIBA                                          PR ADMINISTRACAO                
+194344 47.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+113892 47.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+175131 48.000000 LONDRINA                                          PR ADMINISTRACAO                
+400505 48.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+214523 48.500000 CURITIBA                                          PR ADMINISTRACAO                
+52569 49.000000 LONDRINA                                          PR ADMINISTRACAO                
+304505 49.300000 CURITIBA                                          PR ADMINISTRACAO                
+398699 50.000000 LONDRINA                                          PR ADMINISTRACAO                
+425187 50.000000 LONDRINA                                          PR ADMINISTRACAO                
+229079 50.000000 CURITIBA                                          PR ADMINISTRACAO                
+81658 50.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+142408 50.300000 CURITIBA                                          PR ADMINISTRACAO                
+206712 50.500000 LONDRINA                                          PR ADMINISTRACAO                
+134103 50.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+180621 51.000000 LONDRINA                                          PR ADMINISTRACAO                
+349722 51.500000 CURITIBA                                          PR ADMINISTRACAO                
+190046 51.800000 CURITIBA                                          PR ADMINISTRACAO                
+152355 51.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+198972 52.500000 LONDRINA                                          PR ADMINISTRACAO                
+308793 52.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+130911 52.500000 CURITIBA                                          PR ADMINISTRACAO                
+363557 53.000000 LONDRINA                                          PR ADMINISTRACAO                
+319117 53.000000 LONDRINA                                          PR ADMINISTRACAO                
+62175 53.000000 LONDRINA                                          PR ADMINISTRACAO                
+11327 53.500000 LONDRINA                                          PR ADMINISTRACAO                
+276000 53.500000 LONDRINA                                          PR ADMINISTRACAO                
+266463 53.500000 CURITIBA                                          PR ADMINISTRACAO                
+374514 53.500000 CURITIBA                                          PR ADMINISTRACAO                
+454137 53.500000 CURITIBA                                          PR ADMINISTRACAO                
+421729 54.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+339404 54.000000 CURITIBA                                          PR ADMINISTRACAO                
+340438 54.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+255793 54.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+267396 54.500000 LONDRINA                                          PR ADMINISTRACAO                
+464997 54.500000 LONDRINA                                          PR ADMINISTRACAO                
+16047 54.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+256471 54.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+379843 54.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+372167 55.000000 CURITIBA                                          PR ADMINISTRACAO                
+374342 55.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+273070 55.500000 LONDRINA                                          PR ADMINISTRACAO                
+385026 55.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+298783 55.800000 CURITIBA                                          PR ADMINISTRACAO                
+15820 56.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+30272 56.800000 LONDRINA                                          PR ADMINISTRACAO                
+302587 56.800000 CURITIBA                                          PR ADMINISTRACAO                
+265302 57.000000 LONDRINA                                          PR ADMINISTRACAO                
+59605 58.300000 LONDRINA                                          PR ADMINISTRACAO                
+339678 58.300000 LONDRINA                                          PR ADMINISTRACAO                
+153829 58.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+444743 58.300000 CURITIBA                                          PR ADMINISTRACAO                
+359807 58.500000 LONDRINA                                          PR ADMINISTRACAO                
+210867 58.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+7008 59.300000 LONDRINA                                          PR ADMINISTRACAO                
+52319 59.300000 CURITIBA                                          PR ADMINISTRACAO                
+376528 59.800000 LONDRINA                                          PR ADMINISTRACAO                
+84187 59.800000 CURITIBA                                          PR ADMINISTRACAO                
+221570 60.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+226760 60.500000 LONDRINA                                          PR ADMINISTRACAO                
+9709 60.800000 LONDRINA                                          PR ADMINISTRACAO                
+436352 60.800000 CURITIBA                                          PR ADMINISTRACAO                
+405280 61.300000 LONDRINA                                          PR ADMINISTRACAO                
+300538 61.300000 CURITIBA                                          PR ADMINISTRACAO                
+275900 61.800000 LONDRINA                                          PR ADMINISTRACAO                
+430923 61.800000 LONDRINA                                          PR ADMINISTRACAO                
+348614 61.800000 CURITIBA                                          PR ADMINISTRACAO                
+283649 62.000000 LONDRINA                                          PR ADMINISTRACAO                
+229115 62.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+78706 62.500000 LONDRINA                                          PR ADMINISTRACAO                
+283295 62.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+298201 63.000000 LONDRINA                                          PR ADMINISTRACAO                
+375826 63.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+112768 63.300000 LONDRINA                                          PR ADMINISTRACAO                
+166169 63.500000 LONDRINA                                          PR ADMINISTRACAO                
+359793 64.800000 LONDRINA                                          PR ADMINISTRACAO                
+219990 65.000000 LONDRINA                                          PR ADMINISTRACAO                
+202039 65.800000 LONDRINA                                          PR ADMINISTRACAO                
+301840 66.300000 LONDRINA                                          PR ADMINISTRACAO                
+168156 66.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+122665 67.300000 LONDRINA                                          PR ADMINISTRACAO                
+280259 68.000000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+421168 68.300000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+273715 68.800000 CURITIBA                                          PR ADMINISTRACAO                
+46771 68.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+209858 71.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+101432 73.800000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
+417697 74.800000 CURITIBA                                          PR ADMINISTRACAO                
+276929 79.500000 SAO JOSE DOS PINHAIS                              PR ADMINISTRACAO                
